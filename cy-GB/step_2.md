@@ -6,7 +6,7 @@ Gadewch i ni ddechrau trwy ddangos delwedd ar eich micro:bit pan fydd yn cael ei
 
 ![sgrinlun](images/badge-name.png)
 
-+ Dylech nawr weld y golygydd cod. `I dynnu llun ar eich micro:bit pan fydd yn cael ei danio, llusgwch floc <code>show leds` (dangos leds) o ardal y cod (ar y chwith) y tu mewn i'r bloc <0>start</code> (cychwyn).
++ Dylech nawr weld y golygydd cod. I dynnu llun ar eich micro:bit pan fydd yn cael ei danio, llusgwch floc `show leds` (dangos leds) o ardal y cod (ar y chwith) y tu mewn i'r bloc `start` (cychwyn).
 
 ![sgrinlun](images/badge-draw.png)
 
