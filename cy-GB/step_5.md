@@ -1,23 +1,23 @@
-## Creating a simple animation
+## Creu animeiddiad syml
 
-Let's create a (very) simple animation for your happy and sad faces.
+Gadewch i ni greu animeiddiad syml (iawn) ar gyfer eich wynebau hapus a thrist.
 
-+ Add a second `show leds` block to your `on button A pressed` block, with a neutral face.
++ Ychwanegwch ail `show leds` bloc i'ch `on button A pressed`, gydag wyneb niwtral.
 
-![screenshot](images/badge-neutral.png)
+![sgrinlun](images/badge-neutral.png)
 
-+ If you run this code to test it, you'll notice that the pattern changes quickly. For a longer delay, you'll need to add a `pause` block between the two images being displayed.
++ Os ydych chi'n rhedeg y cod hwn i'w brofi, fe welwch fod y patrwm yn newid yn gyflym. Am oedi hirach, bydd angen i chi ychwanegu bloc `pause` (oedi) rhwng y ddwy ddelwedd sy'n cael eu harddangos.
 
-![screenshot](images/badge-pause.png)
+![sgrinlun](images/badge-pause.png)
 
-To choose how many milliseconds to wait, click the down-arrow and enter a number. 1000 milliseconds is 1 second, so 250 milliseconds is a quarter of a second.
+I ddewis faint o filieiliadau i aros, cliciwch y saeth i lawr a rhowch rif. Mae 1000 milieiliad yn 1 eiliad, felly mae 250 milieiliad yn chwarter eiliad.
 
-+ You'll also need to animate your sad face. The easiest way to do this is to duplicate the blocks you've just created. Right-click on a block to duplicate it. Note that the PXT editor just duplicates one block at a time (not multiple blocks like Scratch.)
++ Bydd angen i chi animeiddio'ch wyneb trist hefyd. Y ffordd hawsaf o wneud hyn yw dyblygu'r blociau rydych chi newydd eu creu. De-gliciwch ar floc i'w ddyblygu. Sylwch fod y golygydd PXT yn dyblygu un bloc ar y tro yn unig (nid blociau lluosog fel Scratch.)
 
-+ You can then drag these blocks into your `on button B pressed` block. This is how your code should look:
++ Yna gallwch chi lusgo'r blociau hyn i mewn i'ch bloc `on button B pressed` (pan wasgir botwm B). Dyma sut y dylai eich cod ymddangos:
 
-![screenshot](images/badge-on-b-pressed.png)
+![sgrinlun](images/badge-on-b-pressed.png)
 
-+ Test your code, and you should see your animated happy and sad faces when you press button A and B.
++ Profwch eich cod, a dylech weld eich wynebau hapus a thrist animeiddiedig wrth i chi bwyso botwm A a B.
 
-![screenshot](images/badge-final.gif)
+![sgrinlun](images/badge-final.gif)
