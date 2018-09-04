@@ -1,21 +1,21 @@
-## Displaying a happy face
+## Dangos wyneb hapus
 
-Let's show a happy face on your micro:bit when the 'A' button is pressed.
+Gadewch i ni ddangos wyneb hapus ar eich micro:bit pan fo'r botwm 'A' yn cael ei wasgu.
 
-+ So far, you've only run code when the micro:bit is powered on. You can also run code when a button is pressed.
++ Hyd yn hyn, rydych chi wedi rhedeg cod pan fydd y micro:bit yn cael ei danio yn unig. Gallwch hefyd redeg cod pan fo botwm yn cael ei wasgu.
 
-Drag an 'on button pressed' block from input and make sure 'A' is selected:
+Llusgwch floc 'on button pressed' (pan wasgir botwm) o fewnbwn a gwnewch yn siŵr bod 'A' yn cael ei ddewis:
 
-![screenshot](images/badge-button-a.png)
+![sgrinlun](images/badge-button-a.png)
 
-Any code added inside this block will run when the 'A' button on your micro:bit is pressed.
+Bydd unrhyw god sydd wedi'i ychwanegu y tu mewn i'r bloc hwn yn rhedeg pan fo'r botwm 'A' ar eich micro:bit yn cael ei wasgu.
 
-+ Drag another `show leds` block inside your new event, and draw a happy face pattern.
++ Llusgwch floc ` show leds ` arall y tu mewn i'ch digwyddiad newydd, a thynnu patrwm wyneb hapus.
 
-![screenshot](images/badge-happy.png)
+![sgrinlun](images/badge-happy.png)
 
-+ Test our your new code in the emulator. Press the 'A' button and you should see a happy face on your micro:bit:
++ Profwch ein cod newydd yn yr efelychydd. Gwasgwch y botwm 'A' a dylech weld wyneb hapus ar eich micro:bit:
 
-![screenshot](images/badge-happy-emulator.png)
+![sgrinlun](images/badge-happy-emulator.png)
 
-You can also test out your new code on your micro:bit.
+Gallwch hefyd brofi eich cod newydd ar eich micro:bit.
