@@ -1,31 +1,31 @@
 ---
-title: Interactive badge
-hero_image: images/interactive-badge.png
-theme: turquoise
+title: Bathodyn rhyngweithiol
+hero_image: delweddau / rhyngweithiol-badge.png
+theme: glaswyrdd
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-1, community-0
-description: Make a badge that shows your mood
+description: Gwnewch fathodyn sy'n dangos eich hwyliau
 original_url: https://codeclubprojects.org/en-GB/microbit/interactive-badge
-interests: wearable-technology
+interests: technoleg wisgadwy
 technologies: microbit
-site_areas: projects
+site_areas: prosiectau
 hardware: microbit
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Cyflwyniad
   - 
-    title: Displaying an image
+    title: Dangos delwedd
   - 
-    title: Displaying a happy face
+    title: Dangos wyneb hapus
   - 
-    title: 'Challenge: Displaying a sad face'
+    title: 'Her: Dangos wyneb trist'
   - 
-    title: Creating a simple animation
+    title: Creu animeiddiad syml
   - 
-    title: 'Challenge: Create your own interactive badge!'
+    title: 'Her: Creu eich bathodyn rhyngweithiol eich hun!'
