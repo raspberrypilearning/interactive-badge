@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Create your own interactive badge!
+## Her: Creu eich bathodyn rhyngweithiol eich hun!
 
-Create your own badge - you can use any images or animations you like!
+Creu eich bathodyn eich hun – gallwch ddefnyddio unrhyw ddelweddau neu animeiddiadau yr hoffech chi!
 
 \--- /challenge \---
