@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Displaying a sad face
+## Her: Dangos wyneb trist
 
-Can you make your micro:bit display a sad face when the 'B' button is pressed? You'll need to use another 'on button pressed' block to do this and select 'B'.
+Allwch chi wneud i'ch micro:bit ddangos wyneb drist pan fo'r botwm 'B' yn cael ei wasgu? Bydd angen i chi ddefnyddio bloc 'on button pressed' (pan wasgir botwm) arall i wneud hyn a dewis 'B'.
 
-![screenshot](images/badge-sad-emulator.png)
+![sgrinlun](images/badge-sad-emulator.png)
 
 \--- /challenge \---
