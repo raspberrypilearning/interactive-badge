@@ -1,59 +1,59 @@
-## Displaying an image
+## Dangos delwedd
 
-Let's start by showing an image on your micro:bit when it's powered on.
+Gadewch i ni ddechrau trwy ddangos delwedd ar eich micro:bit pan fydd yn cael ei danio.
 
-+ Go to <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Interactive badge'.
++ Ewch i <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> i ddechrau prosiect newydd yn y golygydd MakeCode (PXT). Enwch eich prosiect newydd yn 'Bathodyn rhyngweithiol'.
 
-![screenshot](images/badge-name.png)
+![sgrinlun](images/badge-name.png)
 
-+ You should now see the code editor. To draw an image on your micro:bit when it's powered on, drag a `show leds` block from the code area (on the left) inside the `start` block.
++ Dylech nawr weld y golygydd cod. `I dynnu llun ar eich micro:bit pan fydd yn cael ei danio, llusgwch floc <code>show leds` (dangos leds) o ardal y cod (ar y chwith) y tu mewn i'r bloc <0>start</code> (cychwyn).
 
-![screenshot](images/badge-draw.png)
+![sgrinlun](images/badge-draw.png)
 
-+ To create an image to display, click on leds that you want to light up:
++ I greu delwedd i'w harddangos, cliciwch ar y leds yr ydych am eu goleuo:
 
-![screenshot](images/badge-pattern.png)
+![sgrinlun](images/badge-pattern.png)
 
-+ Your code will run automatically in the emulator on the left:
++ Bydd eich cod yn rhedeg yn awtomatig yn yr efelychwr ar y chwith:
 
-![screenshot](images/badge-emulator.png)
+![sgrinlun](images/badge-emulator.png)
 
-+ You can also test your code on the micro:bit itself! To do this, click 'Download' on the menu at the left of the screen.
++ Gallwch chi hefyd brofi'ch cod ar y micro:bit ei hun! I wneud hyn, cliciwch 'Download' (Lawrlwytho) ar y ddewislen ar ochr chwith y sgrin.
 
-![screenshot](images/badge-download.png)
+![sgrinlun](images/badge-download.png)
 
-This will create and download a `.hex` file that will run on your micro:bit.
+Bydd hyn yn creu a yn lawrlwytho ffeil `.hex` a fydd yn rhedeg ar eich micro:bit.
 
-+ Use the USB cable to plug your micro:bit into your computer. You should then see your micro:bit appear in your computer's file manager as a USB drive. 
++ Defnyddiwch y cebl USB i blwgio eich micro:bit i mewn i'ch cyfrifiadur. Yna dylech weld bod eich micro:bit yn ymddangos yn rheolwr ffeiliau eich cyfrifiadur fel gyriant USB. 
 
-![screenshot](images/badge-drive.png)
+![sgrinlun](images/badge-drive.png)
 
-+ If you are using the micro:bit uploader then the `.hex` file will be automatically copied to the micro:bit. Check with your volunteer if you're not sure. 
++ Os ydych chi'n defnyddio'r uwchlwythwr micro:bit yna bydd y ffeil ` .hex` yn cael ei chopïo'n awtomatig i'r micro:bit. Gwiriwch gyda'ch gwirfoddolwr os nad ydych chi'n siŵr. 
 
-Otherwise you will need to copy the `.hex` file to the micro:bit.
+Fel arall, bydd angen i chi gopïo'r ffeil `.hex` i'r micro:bit.
 
-If you are using **Internet Explorer** you can choose `Save as` from the menu that appears at the bottom of your browser and then select the micro:bit drive:
+Os ydych chi'n defnyddio **Internet Explorer** gallwch ddewis `Save as` (Dewisiadau cadw) o'r ddewislen sy'n ymddangos ar waelod eich porwr ac yna dewiswch y gyriant micro:bit:
 
-![screenshot](images/badge-save-explorer.png)
+![sgrinlun](images/badge-save-explorer.png)
 
-If you are using **Google Chrome** you can click on the arrow after the downloaded file and choose 'Show in folder' and then drag the highlighted file to the micro:bit drive:
+Os ydych chi'n defnyddio **Google Chrome** gallwch glicio ar y saeth ar ôl y ffeil wedi'i lawrlwytho a dewis 'Show in folder' (Dangos mewn ffolder) ac wedyn llusgo'r ffeil a amlygir i'r gyrrwr micro:bit:
 
-![screenshot](images/badge-save-chrome.png)
+![sgrinlun](images/badge-save-chrome.png)
 
-+ A light on the back of your micro:bit will flash while the file is being copied. Once this has stopped your program will run. You can click the reset button on the back of your micro:bit to restart the program.
++ Bydd golau ar gefn eich micro:bit yn fflachio tra bydd y ffeil yn cael ei chopïo. Unwaith y bydd hyn wedi stopio bydd eich rhaglen yn rhedeg. Gallwch glicio ar y botwm ailosod ar gefn eich micro:bit i ailgychwyn y rhaglen.
 
-![screenshot](images/badge-reset.jpg)
+![sgrinlun](images/badge-reset.jpg)
 
-+ You should now see your image on the micro:bit. If you prefer, you can remove the USB cable from your micro:bit, and attach the battery. The program will be saved on the micro:bit.
++ Dylech nawr weld eich delwedd ar y micro:bit. Os yw'n well gennych, gallwch chi gael gwared ar y cebl USB o'ch micro:bit, ac atodi'r batri. Bydd y rhaglen yn cael ei chadw ar y micro:bit.
 
-![screenshot](images/badge-battery.jpg)
+![sgrinlun](images/badge-battery.jpg)
 
-You don't need an account to save your stuff! Your project will automatically be saved in the browser, you can click on `Projects` to see your projects.
+Nid oes angen cyfrif arnoch i gadw eich pethau! Bydd eich prosiect yn cael ei gadw yn awtomatig yn y porwr, gallwch glicio ar `Projects` i weld eich prosiectau.
 
-You can also click save to download your project as a `.hex` file which contains your project:
+Gallwch hefyd glicio cadw i lawrlwytho'ch prosiect fel ffeil `.hex` sy'n cynnwys eich prosiect:
 
-![screenshot](images/badge-save.png)
+![sgrinlun](images/badge-save.png)
 
-To load your project on another computer, click 'Projects' and then 'Import file' and select your `.hex` file.
+I lwytho'ch prosiect ar gyfrifiadur arall, cliciwch ar 'Projects' ac yna 'Import file' (Mewnforio ffeil) a dewiswch eich ffeil`.hex`.
 
-![screenshot](images/badge-import.png)
+![sgrinlun](images/badge-import.png)
