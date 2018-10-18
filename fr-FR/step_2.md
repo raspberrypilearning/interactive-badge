@@ -6,7 +6,7 @@ Commençons par afficher une image sur la micro:bit quand elle démarre.
 
 ![screenshot](images/badge-name.png)
 
-+ Tu dois maintenant voir l'éditeur de code. Pour dessiner une image sur ta micro:bit quand elle démarre, place un bloc `montrer LEDs` dans la zone de code (sur la gauche) à l'intérieur du bloc `au démarrage`.
++ Tu dois maintenant voir l'éditeur de code. Pour dessiner une image sur ton micro:bit quand elle démarre, place un bloc `montrer LEDs` dans la zone de code (sur la gauche) à l'intérieur du bloc `au démarrage`.
 
 ![screenshot](images/badge-draw.png)
 
@@ -22,9 +22,9 @@ Commençons par afficher une image sur la micro:bit quand elle démarre.
 
 ![screenshot](images/badge-download.png)
 
-Cela va créer et télécharger un fichier `.hex` que tu pourras exécuter sur ta micro:bit.
+Cela va créer et télécharger un fichier `.hex` que tu pourras exécuter sur ton micro:bit.
 
-+ Utilise un cable USB pour brancher ta micro:bit sur ton ordinateur. Tu devrais voir apparaître ta micro:bit dans le gestionnaire de fichiers, sous la forme d'une clé USB.
++ Utilise un cable USB pour brancher ton micro:bit sur ton ordinateur. Tu devrais voir apparaître ton micro:bit dans le gestionnaire de fichiers, sous la forme d'une clé USB.
 
 ![screenshot](images/badge-drive.png)
 
@@ -40,12 +40,12 @@ Si tu utilises  __Google Chrome__ tu peux cliquer sur la flèche à côté du fi
 
 ![screenshot](images/badge-save-chrome.png)
 
-+ Une lumière à l'arrière de ta micro:bit va clignoter pendant quelques instants, le tant que le fichier soit copié. Une fois que c'est terminé, ton programme va démarrer. Tu peux cliquer sur le bouton reset à l'arrière de ta micro:bit pour redémarrer le programme.
++ Une lumière à l'arrière de ton micro:bit va clignoter pendant quelques instants, le tant que le fichier soit copié. Une fois que c'est terminé, ton programme va démarrer. Tu peux cliquer sur le bouton reset à l'arrière de ton micro:bit pour redémarrer le programme.
 
 ![screenshot](images/badge-reset.jpg)
 
 + Tu devrais maintenant voir ton image sur la micro:bit.
-  Si tu préfères, tu peux enlever le cable USB de ta micro:bit, et la brancher sur des piles.
+  Si tu préfères, tu peux enlever le cable USB de ton micro:bit, et la brancher sur des piles.
   Le programme enregistré sur la micro:bit va démarrer.
 
 ![screenshot](images/badge-battery.jpg)
