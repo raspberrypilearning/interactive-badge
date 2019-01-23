@@ -5,7 +5,7 @@ Rydych am wneud bathodyn rhyngweithiol, a fydd yn dangos eich hwyliau i'ch ffrin
 **Cyfarwyddiadau**: Os ydych chi'n darllen hwn ar-lein, pwyswch **A** ar y micro:bit isod i ddangos wyneb hapus, a **B** i ddangos wyneb trist.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=90418-17495-16581-63753" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_M6yLfbemfPUv" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
 ### Gwybodaeth ychwanegol ar gyfer arweinwyr y clwb
