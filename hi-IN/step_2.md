@@ -2,7 +2,7 @@
 
 आइए आपके micro:bit के चालू होने पर एक छवि दिखाकर शुरू करें।
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. अपने नए प्रोजेक्ट को 'Interactive badge' (इंटरएक्टिव बैज) नाम दें।
++ MakeCode (PXT) संपादक में एक नया प्रोजेक्ट शुरू करने के लिए <0>rpf.io/microbit-new</0> पर जाएंँ।. अपने नए प्रोजेक्ट को 'Interactive badge' (इंटरएक्टिव बैज) नाम दें।
 
 ![स्क्रीनशॉट](images/badge-name.png)
 
