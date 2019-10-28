@@ -14,7 +14,7 @@ Elke code die aan dit blok wordt toegevoegd, wordt uitgevoerd wanneer de 'A'-kno
 
 ![schermafbeelding](images/badge-happy.png)
 
-+ Test out your new code in the emulator. Druk op de 'A'-knop en je zou een blij gezicht op je micro:bit moeten zien:
++ Test je nieuwe code in de emulator. Druk op de 'A'-knop en je zou een blij gezicht op je micro:bit moeten zien:
 
 ![schermafbeelding](images/badge-happy-emulator.png)
 
