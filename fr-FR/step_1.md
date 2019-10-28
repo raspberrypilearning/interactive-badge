@@ -1,44 +1,56 @@
 ## Introduction
 
-Tu vas faire un badge interactif, qui réagit à l'humeur de tes amis.
+You are going to make an interactive badge, that will show your mood to your friends.
 
-__Instructions__: Si vous lisez ceci en ligne, appuyez sur le bouton __A__ de la micro:bit ci-dessous pour afficher un sourire, et sur le bouton __B__ pour montrer de la tristesse.
+**Instructions**: If you're reading this online, press **A** on the micro:bit below to display a happy face, and **B** to show a sad face.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://pxt.microbit.org/---run?id=90418-17495-16581-63753" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_M6yLfbemfPUv" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
+### Informations complémentaires pour les responsables de club
 
---- collapse ---
----
-title: Notes pour le leader du club
----
+Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/interactive-badge/print).
 
+## \--- collapse \---
 
-## Introduction
+## title: Notes pour le responsable de club
 
-Dans ce projet, les enfants apprendront comment utiliser les entrées pour exécuter des séquences d'instructions, en créant un badge interactif. Presser un des boutons de la micro:bit changera l'image
-qui est affichée.
+## Introduction :
+
+In this project, children will learn how to use input events to execute sequences of instructions, by making an interactive badge. Pressing the buttons on the micro:bit will change the image that's displayed.
 
 ## Ressources
 
-Pour ce projet, l'éditeur [PXT](http://jumpto.cc/pxt-new) devra être utilisé.
+For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
-Tu peux trouver une version complète du projet ici  [pxt.microbit.org/#pub:90418-17495-16581-63753](https://pxt.microbit.org/#pub:90418-17495-16581-63753), et le fichier compilé .hex peut être téléchargé en cliquant sur le lien 'Matériaux du projet' qui contient&nbsp;:
+You can find a completed version of this project at [makecode.microbit.org/#pub:90418-17495-16581-63753](https://makecode.microbit.org/#pub:90418-17495-16581-63753), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
-+ microbit-Interactive-Badge.hex
+* microbit-Interactive-Badge.hex
 
 ## Objectifs d'apprentissage
 
-+ Entrées (`lorsque le bouton est pressé`);
-+ Séquence d'instructions.
+* Inputs (`on button pressed`);
+* Sequencing instructions.
 
-Ce projet couvre les éléments suivants du programme [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)&nbsp;:
+Ce projet couvre les éléments suivants du [Programme de Créativité Numérique de Raspberry Pi](http://rpf.io/curriculum):
 
-+ [Utiliser des concepts basiques de programmation pour créer des programmes simples.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Utiliser les constructs basiques de programmation pour élaborer un programme simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Défis
-+ "Afficher un visage triste" - ajouter un nouvel événement  `lorsque le bouton est pressé`&nbsp;;
-+ "Crée ton propre badge interactif&nbsp;!" - consolidation des connaissances acquises dans ce projet.
 
---- /collapse ---
+* "Displaying a sad face" - adding code to a new `on button pressed` event;
+* "Create your own interactive badge!" - consolidation on skills learnt in this project.
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Matériel pour projet
+
+## Ressources pour le responsable de club
+
+* [online completed project](https://makecode.microbit.org/#pub:90418-17495-16581-63753)
+* [.hex project file to transfer onto your micro:bit](resources/microbit-Interactive-Badge.hex)
+
+Question
