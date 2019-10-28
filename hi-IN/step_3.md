@@ -14,7 +14,7 @@
 
 ![स्क्रीनशॉट](images/badge-happy.png)
 
-+ एमुलेटर में अपने नए कोड का परीक्षण करें। 'A' बटन दबाएँ और आपको अपने micro:bit पर एक खुश चेहरा दिखना चाहिए:
++ Test out your new code in the emulator. 'A' बटन दबाएँ और आपको अपने micro:bit पर एक खुश चेहरा दिखना चाहिए:
 
 ![स्क्रीनशॉट](images/badge-happy-emulator.png)
 
