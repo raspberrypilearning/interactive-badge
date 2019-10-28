@@ -14,7 +14,7 @@ Bydd unrhyw god sydd wedi'i ychwanegu y tu mewn i'r bloc hwn yn rhedeg pan fo'r 
 
 ![sgrinlun](images/badge-happy.png)
 
-+ Profwch ein cod newydd yn yr efelychydd. Gwasgwch y botwm 'A' a dylech weld wyneb hapus ar eich micro:bit:
++ Test out your new code in the emulator. Gwasgwch y botwm 'A' a dylech weld wyneb hapus ar eich micro:bit:
 
 ![sgrinlun](images/badge-happy-emulator.png)
 
