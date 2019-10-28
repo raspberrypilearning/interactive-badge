@@ -1,9 +1,7 @@
---- challenge ---
-## Défi&nbsp;: Crée ton propre badge interactif&nbsp;! 
+\--- challange \---
 
-Crée ton propre badge, tu peux utiliser les images ou les animations que tu souhaites&nbsp;!
+## Challenge: Create your own interactive badge!
 
+Create your own badge - you can use any images or animations you like!
 
-
-
---- /challenge ---
+\--- /challenge \---
