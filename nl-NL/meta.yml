@@ -1,0 +1,31 @@
+---
+title: Interactieve badge
+hero_image: images/interactive-badge.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-1, community-0
+description: Maak een badge die je humeur laat zien
+original_url: https://codeclubprojects.org/en-GB/microbit/interactive-badge
+interests: draagbare technologie
+technologies: microbit
+site_areas: projects
+hardware: microbit
+software: ''
+version: 3.0.1
+last_tested: 2019-03-06
+steps:
+  - 
+    title: Inleiding
+  - 
+    title: Een afbeelding weergeven
+  - 
+    title: Een blij gezicht tonen
+  - 
+    title: 'Uitdaging: een droevig gezicht tonen'
+  - 
+    title: Een eenvoudige animatie maken
+  - 
+    title: 'Uitdaging: maak je eigen interactieve badge!'
