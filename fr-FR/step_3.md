@@ -1,21 +1,21 @@
-## Affiche un sourire
+## Displaying a happy face
 
-Montrons maintenant un sourire sur ta micro:bit quand le bouton 'A' est pressé.
+Let's show a happy face on your micro:bit when the 'A' button is pressed.
 
-+ Jusqu'ici, tu as seulement exécuté du code au démarrage de la the micro:bit. Tu peux aussi exécuter du code quand un bouton est pressé.
++ So far, you've only run code when the micro:bit is powered on. You can also run code when a button is pressed.
 
-Place un bloc `Lorsque le bouton est pressé` et vérifie que le bouton A est sélectionné&nbsp;
+Drag an 'on button pressed' block from input and make sure 'A' is selected:
 
 ![screenshot](images/badge-button-a.png)
 
-Tout le code ajouté à l'intérieur de ce bloc ne s'exécutera que lorsque le bouton 'A' de ta micro:bit sera pressé.
+Any code added inside this block will run when the 'A' button on your micro:bit is pressed.
 
-+ Place un bloc `montrer LEDs` à l'intérieur de ton nouvel événement, pour dessiner un visage souriant.
++ Drag another `show leds` block inside your new event, and draw a happy face pattern.
 
-![screenshot](images/badge-happy.png)
+![capture d'écran](images/badge-happy.png)
 
-+ Teste ton code dans l'émulateur. Clique sur le bouton 'A' et tu devrais voir apparaître un visage souriant sur ta micro:bit&nbsp;:
++ Test out your new code in the emulator. Press the 'A' button and you should see a happy face on your micro:bit:
 
-![screenshot](images/badge-happy-emulator.png)
+![capture d'écran](images/badge-happy-emulator.png)
 
-Tu peux aussi tester ton code sur ta micro:bit.
+You can also test out your new code on your micro:bit.
