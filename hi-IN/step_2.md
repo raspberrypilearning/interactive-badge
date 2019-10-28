@@ -2,9 +2,9 @@
 
 आइए आपके micro:bit के चालू होने पर एक छवि दिखाकर शुरू करें।
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. अपने नए प्रोजेक्ट को 'Interactive badge' (इंटरएक्टिव बैज) नाम दें।
++ MakeCode (PXT) संपादक में एक नया प्रोजेक्ट शुरू करने के लिए <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> पर जाएंँ। अपने नए प्रोजेक्ट को 'Interactive badge' (इंटरएक्टिव बैज) नाम दें।
 
-![स्क्रीनशॉट](images/badge-name.png)
+![screenshot](images/badge-name.png)
 
 + अब आपको कोड संपादक देखना चाहिए। अपने micro:bit के चालू होने पर कोई छवि बनाने के लिए, कोड क्षेत्र (बाईं ओर) से `show leds` (एलईडी दिखाएँ) ब्लॉक को `start` (आरंभ) ब्लॉक के अंदर खींचें।
 
