@@ -1,0 +1,31 @@
+---
+title: Insignă interactivă
+hero_image: images/interactive-badge.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-1, community-0
+description: Construiește o insignă care îți arată starea de spirit
+original_url: https://codeclubprojects.org/en-GB/microbit/interactive-badge
+interests: wearable-technology
+technologies: microbit
+site_areas: projects
+hardware: microbit
+software: ''
+version: 3.0.1
+last_tested: 2019-03-06
+steps:
+  - 
+    title: Introducere
+  - 
+    title: Afișarea unei imagini
+  - 
+    title: Afișarea unei fețe fericite
+  - 
+    title: 'Provocare: Afișarea unei fețe triste'
+  - 
+    title: Crearea unei animații simple
+  - 
+    title: 'Provocare: Creează-ți propria insignă interactivă!'
