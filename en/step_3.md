@@ -16,7 +16,7 @@ Any code added inside this block will run when the 'A' button on your micro:bit 
 
 ![screenshot](images/badge-happy.png)
 
-+ Test our your new code in the emulator. Press the 'A' button and you should see a happy face on your micro:bit:
++ Test out your new code in the emulator. Press the 'A' button and you should see a happy face on your micro:bit:
 
 ![screenshot](images/badge-happy-emulator.png)
 
