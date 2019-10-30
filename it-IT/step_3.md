@@ -14,7 +14,7 @@ Qualsiasi codice aggiunto all'interno di questo blocco verrà eseguito quando vi
 
 ![screenshot](images/badge-happy.png)
 
-+ Test out your new code in the emulator. Premendo il pulsante 'A', dovresti vedere uno smile sul tuo micro: bit:
++ Prova il tuo nuovo codice nell'emulatore. Premendo il pulsante 'A', dovresti vedere uno smile sul tuo micro: bit:
 
 ![screenshot](images/badge-happy-emulator.png)
 
