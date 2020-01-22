@@ -14,7 +14,7 @@ Każdy kod dodany w tym bloku będzie działał po naciśnięciu przycisku „A�
 
 ![zrzut ekranu](images/badge-happy.png)
 
-+ Test out your new code in the emulator. Naciśnij przycisk „A”, aby zobaczyć szczęśliwą twarz na swoim micro:bit:
++ Przetestuj twój nowy kod w emulatorze. Naciśnij przycisk „A”, aby zobaczyć szczęśliwą twarz na swoim micro:bit:
 
 ![zrzut ekranu](images/badge-happy-emulator.png)
 
