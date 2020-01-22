@@ -22,9 +22,9 @@ Zacznijmy od wyświetlenia obrazu na twoim micro:bit, gdy się go włącza.
 
 ![zrzut ekranu](images/badge-download.png)
 
-Spowoduje to utworzenie i pobranie pliku `.hex`, który będzie działał na twoim micro:bit.
+Spowoduje to utworzenie i pobranie pliku `.hex`, który będzie mógł działać na twoim micro:bit.
 
-+ Użyj kabla USB, aby podłączyć micro:bit do komputera. Powinieneś wtedy zobaczyć, że twój micro:bit pojawi się w menedżerze plików twojego komputera jako dysk USB. 
++ Użyj kabla USB, aby podłączyć micro:bit do komputera. Powinnaś wtedy zobaczyć, że twój micro:bit pojawi się w menedżerze plików twojego komputera jako dysk USB. 
 
 ![zrzut ekranu](images/badge-drive.png)
 
@@ -44,11 +44,11 @@ Jeśli używasz **Google Chrome** to możesz kliknąć strzałkę za pobranym pl
 
 ![zrzut ekranu](images/badge-reset.jpg)
 
-+ Powinieneś teraz zobaczyć swój obraz na micro:bit. Jeśli wolisz, możesz odłączyć kabel USB od micro:bit i podłączyć baterię. Program zostanie zachowany na micro:bit.
++ Powinnaś teraz zobaczyć swój obraz na micro:bit. Jeśli wolisz, możesz odłączyć kabel USB od micro:bit i podłączyć baterię. Program zostanie zachowany na micro:bit.
 
 ![zrzut ekranu](images/badge-battery.jpg)
 
-Nie potrzebujesz konta, aby zapisać swoje rzeczy! Twój projekt zostanie automatycznie zapisany w przeglądarce, możesz kliknąć w `Projekty` aby zobaczyć swoje projekty.
+Nie potrzebujesz konta, aby zapisać swoje rzeczy! Twój projekt zostanie automatycznie zapisany w przeglądarce, możesz kliknąć w `Projekty`, aby zobaczyć swoje projekty.
 
 Możesz także kliknąć przycisk Zapisz, aby pobrać projekt jako plik `.hex` zawierający Twój projekt:
 
