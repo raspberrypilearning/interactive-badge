@@ -18,6 +18,6 @@ Aby wybrać liczbę milisekund oczekiwania, kliknij strzałkę w dół i wprowad
 
 ![zrzut ekranu](images/badge-on-b-pressed.png)
 
-+ Przetestuj swój kod, a po naciśnięciu przycisku A i B powinieneś zobaczyć animowane szczęśliwe i smutne twarze.
++ Przetestuj swój kod, a po naciśnięciu przycisku A i B powinnaś zobaczyć animowane szczęśliwe i smutne twarze.
 
 ![zrzut ekranu](images/badge-final.gif)
