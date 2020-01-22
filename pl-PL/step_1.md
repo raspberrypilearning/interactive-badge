@@ -18,7 +18,7 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 ## Wprowadzenie:
 
-W tym projekcie dzieci nauczą się, jak używać zdarzeń wejścia do wykonywania sekwencji instrukcji, tworząc interaktywną plakietkę. Naciśnięcie przycisków na micro:bit spowoduje zmianę wyświetlanego obrazu.
+W tym projekcie dzieci nauczą się, jak używać zdarzeń wejściowych do wykonywania sekwencji instrukcji, tworząc interaktywną plakietkę. Naciśnięcie przycisków na micro:bit spowoduje zmianę wyświetlanego obrazu.
 
 ## Zasoby
 
@@ -50,7 +50,7 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 ## Zasoby dla prowadzących klub
 
-* [zakończony projekt online](https://makecode.microbit.org/#pub:90418-17495-16581-63753)
+* [ukończony projekt online](https://makecode.microbit.org/#pub:90418-17495-16581-63753)
 * [plik projektu .hex do przesłania na twój micro:bit](resources/microbit-Interactive-Badge.hex)
 
 \--- /collapse \---
