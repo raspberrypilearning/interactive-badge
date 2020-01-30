@@ -1,59 +1,59 @@
-## Prikazivanje slike
+## Displaying an image
 
-Započnimo prikazivanjem slike na vašem mikro: bitu kada je uključen.
+Let's start by showing an image on your micro:bit when it's powered on.
 
-+ Idite na <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> da biste pokrenuli novi projekt u MakeCode (PXT) uređivaču. Nazovite svoj novi projekt 'Interaktivna značka'.
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Interactive badge'.
 
 ![screenshot](images/badge-name.png)
 
-+ Sada biste trebali vidjeti uređivač koda. Da biste nacrtali sliku na mikro: bit kad je uključen, povucite `show vodi` blok iz područja koda (slijeva) unutar bloka `start`.
++ You should now see the code editor. To draw an image on your micro:bit when it's powered on, drag a `show leds` block from the code area (on the left) inside the `start` block.
 
 ![screenshot](images/badge-draw.png)
 
-+ Da biste stvorili sliku za prikaz, kliknite na diode koje želite osvijetliti:
++ To create an image to display, click on leds that you want to light up:
 
 ![screenshot](images/badge-pattern.png)
 
-+ Vaš se kôd automatski pokreće u emulatoru slijeva:
++ Your code will run automatically in the emulator on the left:
 
-![snimka zaslona](images/badge-emulator.png)
+![screenshot](images/badge-emulator.png)
 
-+ Kôd možete testirati i na samom micro: bit-u! Da biste to učinili, kliknite "Preuzmi" na izborniku s lijeve strane zaslona.
++ You can also test your code on the micro:bit itself! To do this, click 'Download' on the menu at the left of the screen.
 
 ![screenshot](images/badge-download.png)
 
-To će stvoriti i preuzeti `.hex` datoteku koja će se izvoditi na vašem micro: bitu.
+This will create and download a `.hex` file that will run on your micro:bit.
 
-+ Pomoću USB kabela priključite mikro: bit u vaše računalo. Tada biste trebali vidjeti svoj mikro: bit će se u upravitelju datoteka vašeg računala pojaviti kao USB pogon. 
++ Use the USB cable to plug your micro:bit into your computer. You should then see your micro:bit appear in your computer's file manager as a USB drive. 
 
 ![screenshot](images/badge-drive.png)
 
-+ Ako ste pomoću mikro: bitni za učitavanje onda `.hex` datoteka će biti automatski kopirati u mikro: bitni. Provjerite sa svojim volonterom ako niste sigurni. 
++ If you are using the micro:bit uploader then the `.hex` file will be automatically copied to the micro:bit. Check with your volunteer if you're not sure. 
 
-U suprotnom ćete morati kopirati `.hex` datoteku u mikro: bit.
+Otherwise you will need to copy the `.hex` file to the micro:bit.
 
-Ako koristite **Internet Explorer** iz izbornika koji se prikazuje na dnu preglednika odaberite `Spremi kao` a zatim odaberite mikro: bitni pogon:
+If you are using **Internet Explorer** you can choose `Save as` from the menu that appears at the bottom of your browser and then select the micro:bit drive:
 
 ![screenshot](images/badge-save-explorer.png)
 
-Ako koristite **Google Chrome** , možete kliknuti strelicu nakon preuzete datoteke i odabrati "Prikaži u mapi", a zatim povucite označenu datoteku na mikro: bitni pogon:
+If you are using **Google Chrome** you can click on the arrow after the downloaded file and choose 'Show in folder' and then drag the highlighted file to the micro:bit drive:
 
 ![screenshot](images/badge-save-chrome.png)
 
-+ Na stražnjoj strani mikroba bit će bljeskati dok se datoteka kopira. Kad se to zaustavi, vaš će se program pokrenuti. Možete kliknuti gumb za resetiranje na stražnjoj strani mikro: bit za ponovno pokretanje programa.
++ A light on the back of your micro:bit will flash while the file is being copied. Once this has stopped your program will run. You can click the reset button on the back of your micro:bit to restart the program.
 
 ![screenshot](images/badge-reset.jpg)
 
-+ Sada biste trebali vidjeti svoju sliku na mikro: bitu. Ako želite, možete ukloniti USB kabel iz mikro: bit-a i pričvrstiti bateriju. Program će biti spremljen na micro: bit.
++ You should now see your image on the micro:bit. If you prefer, you can remove the USB cable from your micro:bit, and attach the battery. The program will be saved on the micro:bit.
 
 ![screenshot](images/badge-battery.jpg)
 
-Ne treba vam račun za spremanje stvari! Vaš će se projekt automatski spremiti u preglednik, možete kliknuti na `Projekti` da biste vidjeli svoje projekte.
+You don't need an account to save your stuff! Your project will automatically be saved in the browser, you can click on `Projects` to see your projects.
 
-Također možete kliknuti spasiti preuzeti svoj projekt kao `.hex` datoteka koja sadrži vaš projekt:
+You can also click save to download your project as a `.hex` file which contains your project:
 
 ![screenshot](images/badge-save.png)
 
-Da biste učitali svoj projekt na drugo računalo, kliknite 'Projekti', a zatim 'Uvezi datoteku' i odaberite svoju datoteku `.xx`.
+To load your project on another computer, click 'Projects' and then 'Import file' and select your `.hex` file.
 
 ![screenshot](images/badge-import.png)
