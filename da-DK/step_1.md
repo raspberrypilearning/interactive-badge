@@ -1,4 +1,4 @@
-## Introduktion
+## Introduction
 
 You are going to make an interactive badge, that will show your mood to your friends.
 
@@ -8,19 +8,19 @@ You are going to make an interactive badge, that will show your mood to your fri
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_M6yLfbemfPUv" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### Yderligere oplysninger for klubledere
+### Additional information for club leaders
 
-Hvis du har brug for at udskrive dette projekt skal du bruge den [Printventlige version](https://projects.raspberrypi.org/en/projects/interactive-badge/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/interactive-badge/print).
 
 ## \--- collapse \---
 
-## title: Klubledernotater
+## title: Club leader notes
 
-## Tillykke Med Fødselsdagen:
+## Introduction:
 
 In this project, children will learn how to use input events to execute sequences of instructions, by making an interactive badge. Pressing the buttons on the micro:bit will change the image that's displayed.
 
-## Resurser
+## Resources
 
 For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
@@ -28,16 +28,16 @@ You can find a completed version of this project at [makecode.microbit.org/#pub:
 
 * microbit-Interactive-Badge.hex
 
-## Læringsmål
+## Learning Objectives
 
 * Inputs (`on button pressed`);
 * Sequencing instructions.
 
-Dette projekt dækker elementer fra følgende områder i [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Brug grundlæggende programmeringskonstruktioner til at oprette enkle programmer.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Udfordringer
+## Challenges
 
 * "Displaying a sad face" - adding code to a new `on button pressed` event;
 * "Create your own interactive badge!" - consolidation on skills learnt in this project.
@@ -46,9 +46,9 @@ Dette projekt dækker elementer fra følgende områder i [Raspberry Pi Digital M
 
 ## \--- collapse \---
 
-## title: Projektmaterialer
+## title: Project materials
 
-## Klubleder resurser
+## Club leader resources
 
 * [online completed project](https://makecode.microbit.org/#pub:90418-17495-16581-63753)
 * [.hex project file to transfer onto your micro:bit](resources/microbit-Interactive-Badge.hex)
