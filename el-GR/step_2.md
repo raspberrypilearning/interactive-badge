@@ -20,7 +20,7 @@ Let's start by showing an image on your micro:bit when it's powered on.
 
 + You can also test your code on the micro:bit itself! To do this, click 'Download' on the menu at the left of the screen.
 
-![στιγμιότυπο οθόνης](images/badge-download.png)
+![screenshot](images/badge-download.png)
 
 This will create and download a `.hex` file that will run on your micro:bit.
 
