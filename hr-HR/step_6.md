@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Izazov: Kreirajte svoju interaktivnu značku!
+## Challenge: Create your own interactive badge!
 
-Izradite vlastitu značku - možete koristiti bilo koje slike ili animacije koje volite!
+Create your own badge - you can use any images or animations you like!
 
 \--- /challenge \---
