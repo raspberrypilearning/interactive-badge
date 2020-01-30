@@ -1,23 +1,23 @@
-## Stvaranje jednostavne animacije
+## Creating a simple animation
 
-Stvorimo (vrlo) jednostavnu animaciju za vaša sretna i tužna lica.
+Let's create a (very) simple animation for your happy and sad faces.
 
-+ Dodajte drugi `prikazi,` blok vašem gumbu `on, pritisnut` bloka, s neutralnim licem.
++ Add a second `show leds` block to your `on button A pressed` block, with a neutral face.
 
 ![screenshot](images/badge-neutral.png)
 
-+ Ako pokrenete ovaj kod da biste ga testirali, primijetit ćete da se uzorak brzo mijenja. Za dulje odgađanje morat ćete dodati blok od `pauze` između dviju prikazanih slika.
++ If you run this code to test it, you'll notice that the pattern changes quickly. For a longer delay, you'll need to add a `pause` block between the two images being displayed.
 
 ![screenshot](images/badge-pause.png)
 
-Da biste odabrali koliko milisekundi čeka, kliknite strelicu prema dolje i unesite broj. 1000 milisekundi je 1 sekunda, dakle 250 milisekundi je četvrtina sekunde.
+To choose how many milliseconds to wait, click the down-arrow and enter a number. 1000 milliseconds is 1 second, so 250 milliseconds is a quarter of a second.
 
-+ Također ćete trebati animirati svoje tužno lice. Najlakši način za to je umnožavanje blokova koje ste upravo stvorili. Desnom tipkom miša kliknite blok da biste ga duplicirali. Imajte na umu da PXT editor samo duplicira jedan blok istovremeno (a ne više blokova poput Scratch.)
++ You'll also need to animate your sad face. The easiest way to do this is to duplicate the blocks you've just created. Right-click on a block to duplicate it. Note that the PXT editor just duplicates one block at a time (not multiple blocks like Scratch.)
 
-+ Zatim možete povući ove blokove u gumb `na gumbu B, a zatim pritisnuti` blok. Ovako treba izgledati vaš kod:
++ You can then drag these blocks into your `on button B pressed` block. This is how your code should look:
 
-![snimka zaslona](images/badge-on-b-pressed.png)
+![screenshot](images/badge-on-b-pressed.png)
 
-+ Testirajte svoj kôd i trebali biste vidjeti svoja animirana sretna i tužna lica kada pritisnete tipke A i B.
++ Test your code, and you should see your animated happy and sad faces when you press button A and B.
 
 ![screenshot](images/badge-final.gif)
