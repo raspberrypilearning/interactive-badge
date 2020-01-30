@@ -2,7 +2,7 @@
 
 Gadewch i ni ddechrau trwy ddangos delwedd ar eich micro:bit pan fydd yn cael ei danio.
 
-+ Ewch i <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> i ddechrau prosiect newydd yn y golygydd MakeCode (PXT). Enwch eich prosiect newydd yn 'Bathodyn rhyngweithiol'.
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Enwch eich prosiect newydd yn 'Bathodyn rhyngweithiol'.
 
 ![sgrinlun](images/badge-name.png)
 
