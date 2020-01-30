@@ -6,7 +6,7 @@ Let's show a happy face on your micro:bit when the 'A' button is pressed.
 
 Drag an 'on button pressed' block from input and make sure 'A' is selected:
 
-![스크린샷](images/badge-button-a.png)
+![screenshot](images/badge-button-a.png)
 
 Any code added inside this block will run when the 'A' button on your micro:bit is pressed.
 
@@ -16,6 +16,6 @@ Any code added inside this block will run when the 'A' button on your micro:bit 
 
 + Test out your new code in the emulator. Press the 'A' button and you should see a happy face on your micro:bit:
 
-![스크린샷](images/badge-happy-emulator.png)
+![screenshot](images/badge-happy-emulator.png)
 
 You can also test out your new code on your micro:bit.
