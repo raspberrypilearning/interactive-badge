@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Izazov: Prikaz tužnog lica
+## Challenge: Displaying a sad face
 
-Možete li napraviti svoj mikro: bitni prikaz tužnog lica kad pritisnete gumb 'B'? Za to ćete trebati upotrijebiti još jedan blok "pritisnut gumb" i odaberite "B".
+Can you make your micro:bit display a sad face when the 'B' button is pressed? You'll need to use another 'on button pressed' block to do this and select 'B'.
 
 ![screenshot](images/badge-sad-emulator.png)
 
