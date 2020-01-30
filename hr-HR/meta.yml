@@ -1,5 +1,5 @@
 ---
-title: Interaktivna značka
+title: Interactive badge
 hero_image: images/interactive-badge.png
 theme: turquoise
 duration: 2
@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-1, community-0
-description: Napravite značku koja pokazuje vaše raspoloženje
+description: Make a badge that shows your mood
 original_url: https://codeclubprojects.org/en-GB/microbit/interactive-badge
 interests: wearable-technology
 technologies: microbit
@@ -18,14 +18,14 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Sretan rođendan
+    title: Introduction
   - 
-    title: Prikazivanje slike
+    title: Displaying an image
   - 
-    title: Prikaz sretnog lica
+    title: Displaying a happy face
   - 
-    title: 'Izazov: Prikaz tužnog lica'
+    title: 'Challenge: Displaying a sad face'
   - 
-    title: Stvaranje jednostavne animacije
+    title: Creating a simple animation
   - 
-    title: 'Izazov: Kreirajte svoju interaktivnu značku!'
+    title: 'Challenge: Create your own interactive badge!'
