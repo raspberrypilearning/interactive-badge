@@ -1,23 +1,23 @@
-## एक साधारण एनिमेशन बनाना
+## Creating a simple animation
 
-आइए आपके खुश और उदास चेहरों के लिए एक (बहुत) सरल एनिमेशन बनाएँ।
+Let's create a (very) simple animation for your happy and sad faces.
 
-+ अपने `on button A pressed` (बटन A दबाए जाने पर) ब्लॉक में तटस्थ चेहरे के साथ एक दूसरा `show leds` (एलईडी दिखाएँ) ब्लॉक जोड़ें।
++ Add a second `show leds` block to your `on button A pressed` block, with a neutral face.
 
 ![screenshot](images/badge-neutral.png)
 
-+ यदि आप इस कोड को इसका परीक्षण करने के लिए चलाते हैं, तो आप देखेंगे कि पैटर्न बहुत जल्दी बदलता है। लंबी देरी के लिए, आपको प्रदर्शित होने वाली दो छवियों के बीच `pause` (विराम) ब्लॉक जोड़ना होगा।
++ If you run this code to test it, you'll notice that the pattern changes quickly. For a longer delay, you'll need to add a `pause` block between the two images being displayed.
 
-![स्क्रीनशॉट](images/badge-pause.png)
+![screenshot](images/badge-pause.png)
 
-यह चुनने के लिए कि कितने मिलीसेकंड प्रतीक्षा की जाए, नीचे के तीर पर क्लिक करें और कोई संख्या दर्ज करें। 1000 मिलीसेकंड 1 सेकंड होता है, इसलिए 250 मिलीसेकंड एक सेकंड का चौथाई है।
+To choose how many milliseconds to wait, click the down-arrow and enter a number. 1000 milliseconds is 1 second, so 250 milliseconds is a quarter of a second.
 
-+ आपको अपने दुखी चेहरे को भी एनिमेट करने की आवश्यकता होगी। ऐसा करने का सबसे आसान तरीका यह है कि आपने अभी-अभी जो ब्लॉक बनाए हैं उनके डुप्लीकेट बना लिए जाएँ। इसका डुप्लीकेट बनाने के लिए ब्लॉक पर राइट-क्लिक करें। ध्यान दें कि PXT editor (PXT संपादक) एक समय में केवल एक ब्लॉक का डुप्लीकेट बनाता है (स्क्रैच जैसे एकाधिक ब्लॉक का नहीं।)
++ You'll also need to animate your sad face. The easiest way to do this is to duplicate the blocks you've just created. Right-click on a block to duplicate it. Note that the PXT editor just duplicates one block at a time (not multiple blocks like Scratch.)
 
-+ फिर आप इन ब्लॉकों को अपने `on button B pressed` (बटन B दबाए जाने पर) ब्लॉक में खींच कर ले जा सकते हैं। यहाँ दिखाया गया है कि आपका कोड कैसा दिखना चाहिए:
++ You can then drag these blocks into your `on button B pressed` block. This is how your code should look:
 
-![स्क्रीनशॉट](images/badge-on-b-pressed.png)
+![screenshot](images/badge-on-b-pressed.png)
 
-+ अपने कोड का परीक्षण करें, और जब आप बटन A और B दबाते हैं तो आपको अपने एनिमेट किए हुए खुश और उदास चेहरे दिखाई देने चाहिए।
++ Test your code, and you should see your animated happy and sad faces when you press button A and B.
 
-![स्क्रीनशॉट](images/badge-final.gif)
+![screenshot](images/badge-final.gif)
