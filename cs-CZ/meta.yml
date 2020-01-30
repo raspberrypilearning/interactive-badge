@@ -11,14 +11,14 @@ description: Make a badge that shows your mood
 original_url: https://codeclubprojects.org/en-GB/microbit/interactive-badge
 interests: wearable-technology
 technologies: microbit
-site_areas: projekty
+site_areas: projects
 hardware: microbit
 software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Úvod
+    title: Introduction
   - 
     title: Displaying an image
   - 
