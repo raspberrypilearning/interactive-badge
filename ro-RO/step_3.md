@@ -1,21 +1,21 @@
-## Afișarea unei fețe fericite
+## Displaying a happy face
 
-Hai să afișăm o față fericită pe micro:bit-ul tău când apeși butonul „A”.
+Let's show a happy face on your micro:bit when the 'A' button is pressed.
 
-+ Până acum, ai executat codul doar atunci când micro:bit-ul este pornit. Poți, de asemenea, rula codul atunci când este apăsat un buton.
++ So far, you've only run code when the micro:bit is powered on. You can also run code when a button is pressed.
 
-Trage un bloc „on button pressed” din input și asigură-te că este selectat „A”:
+Drag an 'on button pressed' block from input and make sure 'A' is selected:
 
 ![captură de ecran](images/badge-button-a.png)
 
-Orice cod adăugat în interiorul acestui bloc se va executa atunci când apeși butonul „A” de pe micro:bit.
+Any code added inside this block will run when the 'A' button on your micro:bit is pressed.
 
-+ Trege un alt bloc `show leds` în interiorul noului tău eveniment, iar apoi desenează un model de față fericită.
++ Drag another `show leds` block inside your new event, and draw a happy face pattern.
 
 ![captură de ecran](images/badge-happy.png)
 
-+ Test out your new code in the emulator. Apasă butonul „A” și ar trebui să vezi o față fericită pe micro:bit-ul tău:
++ Test out your new code in the emulator. Press the 'A' button and you should see a happy face on your micro:bit:
 
 ![captură de ecran](images/badge-happy-emulator.png)
 
-De asemenea, poți testa noul cod pe micro:bit-ul tău.
+You can also test out your new code on your micro:bit.
