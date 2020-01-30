@@ -1,4 +1,4 @@
-## Inledning
+## Introduction
 
 You are going to make an interactive badge, that will show your mood to your friends.
 
@@ -16,11 +16,11 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Introduktion:
+## Introduction:
 
 In this project, children will learn how to use input events to execute sequences of instructions, by making an interactive badge. Pressing the buttons on the micro:bit will change the image that's displayed.
 
-## Hjälpmedel
+## Resources
 
 For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
