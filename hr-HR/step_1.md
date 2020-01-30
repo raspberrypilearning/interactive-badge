@@ -1,56 +1,56 @@
-## Uvod
+## Introduction
 
-Napravit ćete interaktivnu značku koja će svoje raspoloženje pokazati prijateljima.
+You are going to make an interactive badge, that will show your mood to your friends.
 
-**Uputa**: Ako čitate ovaj Internet, pritisnite **A** na mikro: malo ispod za prikaz sretnog lica i **B** za prikaz tužnog lica.
+**Instructions**: If you're reading this online, press **A** on the micro:bit below to display a happy face, and **B** to show a sad face.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_M6yLfbemfPUv" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### Dodatne informacije za voditelje kluba
+### Additional information for club leaders
 
-Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/interactive-badge/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/interactive-badge/print).
 
 ## \--- collapse \---
 
-## title: Bilješke za voditelja kluba
+## title: Club leader notes
 
-## Uvod:
+## Introduction:
 
-U ovom će se projektu djeca naučiti kako koristiti ulazne događaje za izvršavanje slijeda uputa izrađujući interaktivnu značku. Pritiskom na tipke na micro: bit promijenit ćete prikazanu sliku.
+In this project, children will learn how to use input events to execute sequences of instructions, by making an interactive badge. Pressing the buttons on the micro:bit will change the image that's displayed.
 
-## Resursi
+## Resources
 
-Za ovaj projekt treba upotrijebiti mikrobitni uređivač [MakeCode (PXT)](http://jumpto.cc/pxt-new).
+For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
-Dovršenu verziju ovog projekta možete pronaći na [makecode.microbit.org/#pub:90418-17495-16581-63753](https://makecode.microbit.org/#pub:90418-17495-16581-63753), a sastavljenu .hex datoteku možete preuzeti klikom na vezu 'Preuzmi projektne materijale' za ovaj projekt , koji sadrži:
+You can find a completed version of this project at [makecode.microbit.org/#pub:90418-17495-16581-63753](https://makecode.microbit.org/#pub:90418-17495-16581-63753), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
 * microbit-Interactive-Badge.hex
 
-## Ishodi učenja
+## Learning Objectives
 
-* Ulazi (`na pritisnutom gumbu`);
-* Upute za sekvenciranje
+* Inputs (`on button pressed`);
+* Sequencing instructions.
 
-Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) nastavnog plana i programa:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Korištenje osnova programiranja za izradu jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Izazovi
+## Challenges
 
-* "Prikaz tužnog lica" - dodavanje koda novom gumbu `na pritisnutom` događaju;
-* "Napravite svoju interaktivnu značku!" - konsolidacija vještina stečenih u ovom projektu.
+* "Displaying a sad face" - adding code to a new `on button pressed` event;
+* "Create your own interactive badge!" - consolidation on skills learnt in this project.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Materijali projekta
+## title: Project materials
 
-## Resursi za voditelja kluba
+## Club leader resources
 
-* [online završen projekt](https://makecode.microbit.org/#pub:90418-17495-16581-63753)
-* [.hex projektnu datoteku za prijenos na vaš micro: bit](resources/microbit-Interactive-Badge.hex)
+* [online completed project](https://makecode.microbit.org/#pub:90418-17495-16581-63753)
+* [.hex project file to transfer onto your micro:bit](resources/microbit-Interactive-Badge.hex)
 
 \--- /collapse \---
