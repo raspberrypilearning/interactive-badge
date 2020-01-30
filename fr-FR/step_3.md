@@ -12,10 +12,10 @@ Any code added inside this block will run when the 'A' button on your micro:bit 
 
 + Drag another `show leds` block inside your new event, and draw a happy face pattern.
 
-![capture d'écran](images/badge-happy.png)
+![screenshot](images/badge-happy.png)
 
 + Test out your new code in the emulator. Press the 'A' button and you should see a happy face on your micro:bit:
 
-![capture d'écran](images/badge-happy-emulator.png)
+![screenshot](images/badge-happy-emulator.png)
 
 You can also test out your new code on your micro:bit.
