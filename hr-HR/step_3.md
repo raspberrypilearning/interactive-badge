@@ -1,21 +1,21 @@
-## Prikaz sretnog lica
+## Displaying a happy face
 
-Pokažimo sretno lice na vašem mikro: bitu kada pritisnete gumb 'A'.
+Let's show a happy face on your micro:bit when the 'A' button is pressed.
 
-+ Do sada ste pokrenuli kod samo kad je micro: bit uključen. Također možete pokrenuti kôd kada pritisnete gumb.
++ So far, you've only run code when the micro:bit is powered on. You can also run code when a button is pressed.
 
-Povucite blok "pritisnut gumb" s unosa i provjerite je li odabrano "A":
+Drag an 'on button pressed' block from input and make sure 'A' is selected:
 
 ![screenshot](images/badge-button-a.png)
 
-Svaka koda dodana unutar ovog bloka pokrenut će se kad pritisnete gumb 'A' na vašem micro: bit-u.
+Any code added inside this block will run when the 'A' button on your micro:bit is pressed.
 
-+ Povucite još `prikazi` blok unutar vašeg novog događaja i nacrtajte sretan obrazac lica.
++ Drag another `show leds` block inside your new event, and draw a happy face pattern.
 
-![snimka zaslona](images/badge-happy.png)
+![screenshot](images/badge-happy.png)
 
-+ Testirajte svoj novi kôd na emulatoru. Pritisnite tipku 'A' i na mikrofone biste trebali vidjeti sretno lice: bit:
++ Test out your new code in the emulator. Press the 'A' button and you should see a happy face on your micro:bit:
 
 ![screenshot](images/badge-happy-emulator.png)
 
-Možete testirati i svoj novi kod na micro: bit-u.
+You can also test out your new code on your micro:bit.
