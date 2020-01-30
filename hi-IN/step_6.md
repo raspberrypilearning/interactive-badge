@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## चुनौती: अपना खुद का इंटरेक्टिव बैज बनाएँ!
+## Challenge: Create your own interactive badge!
 
-अपना खुद का बैज बनाएँ - आप अपनी पसंद की किन्हीं भी छवियों या एनिमेशनों का उपयोग कर सकते हैं!
+Create your own badge - you can use any images or animations you like!
 
 \--- /challenge \---
