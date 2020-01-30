@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Provocare: afișarea unei fețe triste
+## Challenge: Displaying a sad face
 
-Poți să-ți faci micro.bit-ul să afișeze o față tristă când apeși butonul „B”? Va trebui să folosești un alt bloc „on button pressed” pentru a face acest lucru, iar apoi selectează „B”.
+Can you make your micro:bit display a sad face when the 'B' button is pressed? You'll need to use another 'on button pressed' block to do this and select 'B'.
 
 ![captură de ecran](images/badge-sad-emulator.png)
 
