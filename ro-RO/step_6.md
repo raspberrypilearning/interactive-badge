@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Provocare: Creează-ți propria insignă interactivă!
+## Challenge: Create your own interactive badge!
 
-Creează-ți propria insignă interactivă - poți utiliza orice fel de imagini sau animații care îți plac!
+Create your own badge - you can use any images or animations you like!
 
 \--- /challenge \---
