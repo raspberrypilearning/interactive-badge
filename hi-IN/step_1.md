@@ -1,56 +1,56 @@
-## परिचय
+## Introduction
 
-आप एक इंटरेक्टिव बैज बनाने जा रहे हैं, जो आपके दोस्तों को आपका मूड दिखाएगा।
+You are going to make an interactive badge, that will show your mood to your friends.
 
-**निर्देश**: यदि आप इसे ऑनलाइन पढ़ रहे हैं, तो खुश चेहरा दिखाने के लिए नीचे micro:bit पर **A** दबाएँ, और दुःखी चेहरा दिखाने के लिए **B** दबाएँ।
+**Instructions**: If you're reading this online, press **A** on the micro:bit below to display a happy face, and **B** to show a sad face.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_M6yLfbemfPUv" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### क्लब लीडरों के लिए अतिरिक्त जानकारी
+### Additional information for club leaders
 
-यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/interactive-badge/print) का उपयोग करें।
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/interactive-badge/print).
 
 ## \--- collapse \---
 
-## title: क्लब नेता नोट्स
+## title: Club leader notes
 
-## परिचय:
+## Introduction:
 
-इस प्रोजेक्ट में, बच्चे यह सीखेंगे कि एक इंटरैक्टिव बैज बनाकर निर्देशों के अनुक्रमों को निष्पादित करने के लिए इनपुट ईवेंट का उपयोग किस तरह किया जाए। Micro:bit पर बटनों को दबाने से प्रदर्शित होने वाली छवि बदल जाएगी।
+In this project, children will learn how to use input events to execute sequences of instructions, by making an interactive badge. Pressing the buttons on the micro:bit will change the image that's displayed.
 
-## संसाधन
+## Resources
 
-इस प्रोजेक्ट के लिए, [MakeCode (PXT)](http://jumpto.cc/pxt-new) माइक्रोबिट संपादक का उपयोग किया जाना चाहिए।
+For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
-आप इस प्रोजेक्ट का पूर्ण किया गया संस्करण [makecode.microbit.org/#pub:90418-17495-16581-63753](https://makecode.microbit.org/#pub:90418-17495-16581-63753) पर प्राप्त कर सकते हैं, और संकलित .hex फाइल 'प्रोजेक्ट सामग्री डाउनलोड करें' लिंक पर क्लिक करके डाउनलोड की जा सकती है, जिसमे शामिल है:
+You can find a completed version of this project at [makecode.microbit.org/#pub:90418-17495-16581-63753](https://makecode.microbit.org/#pub:90418-17495-16581-63753), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
 * microbit-Interactive-Badge.hex
 
-## अध्ययन के उद्देश्य
+## Learning Objectives
 
-* इनपुट (`on button pressed`) (बटन दबाए जाने पर);
-* अनुक्रम संबंधी निर्देश।
+* Inputs (`on button pressed`);
+* Sequencing instructions.
 
-यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों के पहलुओं को पूरा करता है:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## चुनौतियाँ
+## Challenges
 
-* "एक उदास चेहरा प्रदर्शित करना" - एक नए इवेंट `on button pressed` (बटन दबाए जाने पर) में एक कोड जोड़ना;
-* "अपना खुद का इंटरेक्टिव बैज बनाएँ!" - इस प्रोजेक्ट में सीखे गए कौशलों का समेकन करना।
+* "Displaying a sad face" - adding code to a new `on button pressed` event;
+* "Create your own interactive badge!" - consolidation on skills learnt in this project.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: प्रोजेक्ट सामग्री
+## title: Project materials
 
-## क्लब नेता संसाधन
+## Club leader resources
 
-* [ऑनलाइन पूर्ण प्रोजेक्ट](https://makecode.microbit.org/#pub:90418-17495-16581-63753)
-* [आपके micro:bit पर स्थानांतरित करने के लिए.hex प्रोजेक्ट फ़ाइल](resources/microbit-Interactive-Badge.hex)
+* [online completed project](https://makecode.microbit.org/#pub:90418-17495-16581-63753)
+* [.hex project file to transfer onto your micro:bit](resources/microbit-Interactive-Badge.hex)
 
 \--- /collapse \---
