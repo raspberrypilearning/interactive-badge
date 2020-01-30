@@ -4,7 +4,7 @@ Let's create a (very) simple animation for your happy and sad faces.
 
 + Add a second `show leds` block to your `on button A pressed` block, with a neutral face.
 
-![capture d'écran](images/badge-neutral.png)
+![screenshot](images/badge-neutral.png)
 
 + If you run this code to test it, you'll notice that the pattern changes quickly. For a longer delay, you'll need to add a `pause` block between the two images being displayed.
 
@@ -16,8 +16,8 @@ To choose how many milliseconds to wait, click the down-arrow and enter a number
 
 + You can then drag these blocks into your `on button B pressed` block. This is how your code should look:
 
-![capture d'écran](images/badge-on-b-pressed.png)
+![screenshot](images/badge-on-b-pressed.png)
 
 + Test your code, and you should see your animated happy and sad faces when you press button A and B.
 
-![capture d'écran](images/badge-final.gif)
+![screenshot](images/badge-final.gif)
