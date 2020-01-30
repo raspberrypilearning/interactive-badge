@@ -4,4 +4,4 @@
 
 Create your own badge - you can use any images or animations you like!
 
-\--- challenge \---
+\--- /challenge \---
