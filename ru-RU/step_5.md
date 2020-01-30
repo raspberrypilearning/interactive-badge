@@ -8,7 +8,7 @@ Let's create a (very) simple animation for your happy and sad faces.
 
 + If you run this code to test it, you'll notice that the pattern changes quickly. For a longer delay, you'll need to add a `pause` block between the two images being displayed.
 
-![скриншот](images/badge-pause.png)
+![screenshot](images/badge-pause.png)
 
 To choose how many milliseconds to wait, click the down-arrow and enter a number. 1000 milliseconds is 1 second, so 250 milliseconds is a quarter of a second.
 
@@ -20,4 +20,4 @@ To choose how many milliseconds to wait, click the down-arrow and enter a number
 
 + Test your code, and you should see your animated happy and sad faces when you press button A and B.
 
-![скриншот](images/badge-final.gif)
+![screenshot](images/badge-final.gif)
