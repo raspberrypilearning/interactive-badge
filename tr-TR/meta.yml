@@ -1,12 +1,12 @@
 ---
 title: Interactive badge
-hero_image: images / interactive-badge.png
+hero_image: images/interactive-badge.png
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, tasarım-0, programlama-1, phys-comp-0, üretim-1, topluluk-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-1, community-0
 description: Make a badge that shows your mood
 original_url: https://codeclubprojects.org/en-GB/microbit/interactive-badge
 interests: wearable-technology
@@ -18,7 +18,7 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Giriş
+    title: Introduction
   - 
     title: Displaying an image
   - 
