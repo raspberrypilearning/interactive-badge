@@ -20,4 +20,4 @@ To choose how many milliseconds to wait, click the down-arrow and enter a number
 
 + Test your code, and you should see your animated happy and sad faces when you press button A and B.
 
-![στιγμιότυπο οθόνης](images/badge-final.gif)
+![screenshot](images/badge-final.gif)
