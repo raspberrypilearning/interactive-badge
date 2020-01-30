@@ -1,59 +1,59 @@
-## Afișarea unei imagini
+## Displaying an image
 
-Să începem prin a afișa o imagine pe micro:bit când este pornit.
+Let's start by showing an image on your micro:bit when it's powered on.
 
-+ Mergi la <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> pentru a începe un proiect nou în editorul MakeCode (PXT). Numește noul tău proiect „Insignă interactivă”.
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Interactive badge'.
 
 ![captură de ecran](images/badge-name.png)
 
-+ Ar trebui să vezi acum editorul de cod. Pentru a desena o imagine pe micro:bit-ul tău atunci când este pornit, trage un bloc `show leds` din zona de cod (în partea stângă) în interiorul blocului `start`.
++ You should now see the code editor. To draw an image on your micro:bit when it's powered on, drag a `show leds` block from the code area (on the left) inside the `start` block.
 
 ![captură de ecran](images/badge-draw.png)
 
-+ Pentru a crea o imagine care să fie afișată, dă click pe led-urile pe care dorești să le aprinzi:
++ To create an image to display, click on leds that you want to light up:
 
 ![captură de ecran](images/badge-pattern.png)
 
-+ Codul tău se va executa automat în emulatorul din stânga:
++ Your code will run automatically in the emulator on the left:
 
 ![captură de ecran](images/badge-emulator.png)
 
-+ De asemenea, îți poți testa codul chiar pe micro:bit! Pentru a face asta, dă click pe „Download” din meniul din partea stângă a ecranului.
++ You can also test your code on the micro:bit itself! To do this, click 'Download' on the menu at the left of the screen.
 
 ![captură de ecran](images/badge-download.png)
 
-Astfel, se va crea și descărca un fișier `.hex` care va rula pe micro:bit-ul tău.
+This will create and download a `.hex` file that will run on your micro:bit.
 
-+ Folosește cablul USB pentru a conecta micro:bit-ul în computer-ul tău. Ar trebui să vezi că micro-bit-ul tău apare în manager-ul de fișiere al computerului ca unitate USB. 
++ Use the USB cable to plug your micro:bit into your computer. You should then see your micro:bit appear in your computer's file manager as a USB drive. 
 
 ![captură de ecran](images/badge-drive.png)
 
-+ Dacă folosești uploader-ul micro:bit, atunci fișierul `.hex` va fi copiat automat pe micro:bit. Consultează voluntarul dacă nu ești sigur. 
++ If you are using the micro:bit uploader then the `.hex` file will be automatically copied to the micro:bit. Check with your volunteer if you're not sure. 
 
-În caz contrar, va trebui să copiezi fișierul `.hex` pe micro:bit.
+Otherwise you will need to copy the `.hex` file to the micro:bit.
 
-Dacă folosești **Internet Explorer**, poți alege `Salvare ca` din meniul care apare în partea de jos a browser-ului tău și apoi selectează unitatea micro-bit:
+If you are using **Internet Explorer** you can choose `Save as` from the menu that appears at the bottom of your browser and then select the micro:bit drive:
 
 ![captură de ecran](images/badge-save-explorer.png)
 
-Dacă folosești **Google Chrome**, poți să dai click pe săgeată după fișierul descărcat și să alegi „Afișează în dosar” și apoi să tragi fișierul evidențiat pe unitatea micro:bit:
+If you are using **Google Chrome** you can click on the arrow after the downloaded file and choose 'Show in folder' and then drag the highlighted file to the micro:bit drive:
 
 ![captură de ecran](images/badge-save-chrome.png)
 
-+ O lumină de pe partea din spate a micro:bit-ului tău va clipi în timp ce fișierul este copiat. Odată finalizat, programul tău va rula. Poți să dai click pe butonul de resetare de pe partea din spate a micro:bit-ului pentru a reporni programul.
++ A light on the back of your micro:bit will flash while the file is being copied. Once this has stopped your program will run. You can click the reset button on the back of your micro:bit to restart the program.
 
 ![captură de ecran](images/badge-reset.jpg)
 
-+ Acum ar trebui să vă îți vezi imaginea pe micro:bit. Dacă preferi, poți scoate cablul USB de la micro:bit și să atașezi bateria. Programul va fi salvat pe micro:bit.
++ You should now see your image on the micro:bit. If you prefer, you can remove the USB cable from your micro:bit, and attach the battery. The program will be saved on the micro:bit.
 
 ![captură de ecran](images/badge-battery.jpg)
 
-Nu ai nevoie de un cont pentru a salva lucrurile! Proiectul tău va fi salvat automat în browser, după care poți da click pe `Projects` pentru a vedea proiectele tale.
+You don't need an account to save your stuff! Your project will automatically be saved in the browser, you can click on `Projects` to see your projects.
 
-De asemenea, poți da click pe salvează pentru a descărca proiectul ca un fișier `.hex` care conține proiectul tău:
+You can also click save to download your project as a `.hex` file which contains your project:
 
 ![captură de ecran](images/badge-save.png)
 
-Pentru a încărca proiectul tău pe un alt computer, dă click pe „Projects”, „Import file” și mai apoi selectează fișierul tău `.hex`.
+To load your project on another computer, click 'Projects' and then 'Import file' and select your `.hex` file.
 
-![captură de ecran](images/badge-import.png)
+![screenshot](images/badge-import.png)
