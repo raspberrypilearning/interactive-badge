@@ -1,0 +1,25 @@
+---
+title: Interaktywna plakietka
+hero_image: images/interactive-badge.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-1, community-0
+description: Zrób plakietkę pokazującą twój nastrój
+original_url: https://codeclubprojects.org/en-GB/microbit/interactive-badge
+interests: wearable-technology
+technologies: microbit
+site_areas: projects
+hardware: microbit
+software: ''
+version: 3.0.1
+last_tested: 2019-03-06
+steps:
+  - title: Wprowadzenie
+  - title: Wyświetlanie obrazka
+  - title: Wyświetlanie wesołej twarzy
+  - title: 'Wyzwanie: Wyświetlanie smutnej twarzy'
+  - title: Tworzenie prostej animacji
+  - title: 'Wyzwanie: Stwórz swoją własną interaktywną plakietkę!'
