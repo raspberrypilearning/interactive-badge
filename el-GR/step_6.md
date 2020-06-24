@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Create your own interactive badge!
+## Πρόκληση: Δημιούργησε το δικό σου διαδραστικό έμβλημα!
 
-Create your own badge - you can use any images or animations you like!
+Δημιούργησε το δικό σου έμβλημα - μπορείς να χρησιμοποιήσεις οποιεσδήποτε εικόνες ή κινούμενες εικόνες σου αρέσουν!
 
 \--- /challenge \---
