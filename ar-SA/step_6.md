@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Create your own interactive badge!
+## التحدي: أنشئ علامة تفاعلية خاصة بك!
 
-Create your own badge - you can use any images or animations you like!
+أنشئ شارتك الخاصة - يمكنك استخدام أي صور أو رسوم متحركة تحبها!
 
 \--- /challenge \---
