@@ -4,7 +4,7 @@ Laten we een blij gezicht op je micro:bit laten zien wanneer de 'A'-knop wordt i
 
 + Tot nu toe heb je alleen code uitgevoerd wanneer de micro:bit is ingeschakeld. Je kunt ook code uitvoeren wanneer op een knop wordt gedrukt.
 
-Sleep een blok 'on button pressed' uit input en zorg dat 'A' is geselecteerd:
+Sleep een blok 'wanneer knop wordt ingedrukt' uit input en zorg dat 'A' is geselecteerd:
 
 ![schermafbeelding](images/badge-button-a.png)
 
