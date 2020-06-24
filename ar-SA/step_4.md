@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Displaying a sad face
+## التحدي: عرض وجه حزين
 
-Can you make your micro:bit display a sad face when the 'B' button is pressed? You'll need to use another 'on button pressed' block to do this and select 'B'.
+هل يمكنك جعل المايكروبيت (micro:bit) يعرض وجهاً حزيناً عندما يتم الضغط على زر 'B'؟ ستحتاج إلى استخدام تعليمة أخرى "عند الضغط على الزر" للقيام بذلك وتحديد "B".
 
-![screenshot](images/badge-sad-emulator.png)
+![لقطة شاشة](images/badge-sad-emulator.png)
 
 \--- /challenge \---
