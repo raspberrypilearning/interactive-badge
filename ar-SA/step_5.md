@@ -1,23 +1,23 @@
-## Creating a simple animation
+## إنشاء رسوم متحركة بسيطة
 
-Let's create a (very) simple animation for your happy and sad faces.
+دعونا ننشئ رسوم متحركة بسيطة لوجوهك السعيدة و الحزينة.
 
-+ Add a second `show leds` block to your `on button A pressed` block, with a neutral face.
++ أضف تعليمة أخرى `المصابيح ` إلى تعليمة`اضغط على الزر A ` مع وجه محايد.
 
-![screenshot](images/badge-neutral.png)
+![لقطة شاشة](images/badge-neutral.png)
 
-+ If you run this code to test it, you'll notice that the pattern changes quickly. For a longer delay, you'll need to add a `pause` block between the two images being displayed.
++ إذا قمت بتشغيل هذه التعليمات البرمجية لاختبارها، ستلاحظ أن النمط يتغير بسرعة. للحصول على تأخير أطول، ستحتاج إلى إضافة تعليمة`توقف` بين الصورتين المعروضتين.
 
-![screenshot](images/badge-pause.png)
+![لقطة شاشة](images/badge-pause.png)
 
-To choose how many milliseconds to wait, click the down-arrow and enter a number. 1000 milliseconds is 1 second, so 250 milliseconds is a quarter of a second.
+لاختيار عدد أجزاء ثانية التي يجب انتظارها، انقر على السهم الأسفل وأدخل رقما. 1000 جزء من الثانية هي ثانية واحدة، و 250 جزء من الثانية هي ربع ثانية.
 
-+ You'll also need to animate your sad face. The easiest way to do this is to duplicate the blocks you've just created. Right-click on a block to duplicate it. Note that the PXT editor just duplicates one block at a time (not multiple blocks like Scratch.)
++ ستحتاج أيضًا إلى تحريك وجهك الحزين. أسهل طريقة للقيام بذلك هي تكرار التعليمات التي أنشأتها للتو. انقر بزر الماوس الأيمن على تعليمة لتكرارها. لاحظ أن محرر PXT يكرر فقط تعليمة واحدة في كل مرة (ليس تعليمة متعددة مثل سكراتش)
 
-+ You can then drag these blocks into your `on button B pressed` block. This is how your code should look:
++ للقيام بذلك ، اسحب مجموعة الضغط على ` على الزر A + B ` منع. هذا ما ينبغي ان تبدو عليه تعليماتك البرمجية:
 
-![screenshot](images/badge-on-b-pressed.png)
+![لقطة الشاشة](images/badge-on-b-pressed.png)
 
-+ Test your code, and you should see your animated happy and sad faces when you press button A and B.
++ اختبر الرمز الخاص بك ، ويجب أن ترى وجوهك المتحرك السعيدة والحزينة عند الضغط على الزر A و B.
 
-![screenshot](images/badge-final.gif)
+![لقطة الشاشة](images/badge-final.gif)
