@@ -1,0 +1,31 @@
+---
+title: Insignia interactiva
+hero_image: images/interactive-badge.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-1, community-0
+description: Crea una insignia que muestre tu estado de ánimo
+original_url: https://codeclubprojects.org/en-GB/microbit/interactive-badge
+interests: wearable-technology
+technologies: microbit
+site_areas: projects
+hardware: microbit
+software: ''
+version: 3.0.1
+last_tested: 2019-03-06
+steps:
+  - 
+    title: Introducción
+  - 
+    title: Mostrando una imagen
+  - 
+    title: Mostrando una cara feliz
+  - 
+    title: 'Desafío: muestra una cara triste'
+  - 
+    title: Creando una animación simple
+  - 
+    title: 'Desafío: ¡crea tu propia insignia interactiva!'
