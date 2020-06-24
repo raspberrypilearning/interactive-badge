@@ -1,59 +1,59 @@
-## Displaying an image
+## عرض صورة
 
-Let's start by showing an image on your micro:bit when it's powered on.
+لنبدأ بإظهار صورة على جهاز micro:bit عندما يكون قيد التشغيل.
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Interactive badge'.
++ اذهب إلى <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> لبدء مشروع جديد في محرر MakeCode (PXT). ادع مشروعك الجديد 'علامة تفاعلية'.
 
-![screenshot](images/badge-name.png)
+![لقطة شاشة](images/badge-name.png)
 
-+ You should now see the code editor. To draw an image on your micro:bit when it's powered on, drag a `show leds` block from the code area (on the left) inside the `start` block.
++ يجب أن ترى الآن محرر التعليمات البرمجية. لرسم صورة على جهاز micro: bit عند تشغيله ، اسحب تعليمة برمجية` مصابيح Led للإضاءة ` من منطقة التعليمات البرمجية (على اليسار) داخل التعليمات البرمجية ` اساسي`.
 
-![screenshot](images/badge-draw.png)
+![لقطة شاشة](images/badge-draw.png)
 
-+ To create an image to display, click on leds that you want to light up:
++ لإنشاء صورة للعرض ، انقر فوق المصابيح التي تريدها أن تضيء:
 
-![screenshot](images/badge-pattern.png)
+![لقطة الشاشة](images/badge-pattern.png)
 
-+ Your code will run automatically in the emulator on the left:
++ سيتم تشغيل التعليمات البرمجية الخاصة بك تلقائيًا في المحاكي على اليسار:
 
-![screenshot](images/badge-emulator.png)
+![لقطة الشاشة](images/badge-emulator.png)
 
-+ You can also test your code on the micro:bit itself! To do this, click 'Download' on the menu at the left of the screen.
++ يمكنك أيضا اختبار تعليماتك البرمجية على المايكروبيت (micro:bit) نفسها! للقيام بذلك ، انقر فوق "تنزيل" في القائمة على يسار الشاشة.
 
-![screenshot](images/badge-download.png)
+![لقطة الشاشة](images/badge-download.png)
 
-This will create and download a `.hex` file that will run on your micro:bit.
+سيؤدي هذا إلى إنشاء وتنزيل ملف `.hex` الذي سيتم تشغيله على المايكروبيت (micro:bit).
 
-+ Use the USB cable to plug your micro:bit into your computer. You should then see your micro:bit appear in your computer's file manager as a USB drive. 
++ استخدم كابل USB لتوصيل المايكروبيت (micro:bit) في الحاسوب الخاص بك. من المفترض أن ترى بعد ذلك جهاز micro: bit يظهر في إدارة ملفات الحاسوب كمحرك أقراص USB. 
 
-![screenshot](images/badge-drive.png)
+![لقطة الشاشة](images/badge-drive.png)
 
-+ If you are using the micro:bit uploader then the `.hex` file will be automatically copied to the micro:bit. Check with your volunteer if you're not sure. 
++ إذا كنت تستخدم أداة تحميل المايكروبيت (micro:bit) فسيتم نسخ الملف `.hex` تلقائياً إلى المايكروبيت (micro:bit). استشر متطوعك إذا لم تكن متأكدًا. 
 
-Otherwise you will need to copy the `.hex` file to the micro:bit.
+وإلا ستحتاج إلى نسخ الملف `.hex` إلى المايكروبيت (micro:bit).
 
-If you are using **Internet Explorer** you can choose `Save as` from the menu that appears at the bottom of your browser and then select the micro:bit drive:
+إذا كنت تستخدم **Internet Explorer** يمكنك اختيار `حفظ كـ ` من القائمة التي تظهر في أسفل المتصفح الخاص بك ثم اختر محرك الأقراص micro:bit:
 
-![screenshot](images/badge-save-explorer.png)
+![لقطة الشاشة](images/badge-save-explorer.png)
 
-If you are using **Google Chrome** you can click on the arrow after the downloaded file and choose 'Show in folder' and then drag the highlighted file to the micro:bit drive:
+إذا كنت تستخدم **Google Chrome** يمكنك النقر على السهم بعد الملف الذي تم تنزيله واختيار 'إظهار في المجلد' ثم سحب الملف المميز إلى محرك الأقراص (micro:bit):
 
-![screenshot](images/badge-save-chrome.png)
+![لقطة الشاشة](images/badge-save-chrome.png)
 
-+ A light on the back of your micro:bit will flash while the file is being copied. Once this has stopped your program will run. You can click the reset button on the back of your micro:bit to restart the program.
++ سيضيء ضوء على الجزء الخلفي من المايكروبت الخاص بك أثناء نسخ الملف. بمجرد توقف هذا سيتم تشغيل البرنامج الخاص بك. يمكنك النقر فوق زر إعادة الضبط على الجزء الخلفي من micro: bit لإعادة تشغيل البرنامج.
 
-![screenshot](images/badge-reset.jpg)
+![لقطة الشاشة](images/badge-reset.jpg)
 
-+ You should now see your image on the micro:bit. If you prefer, you can remove the USB cable from your micro:bit, and attach the battery. The program will be saved on the micro:bit.
++ يجب أن ترى الآن صورتك على المايكروبيت (micro:bit). إذا كنت تفضل ، يمكنك إزالة كابل USB من المايكروبيت (micro:bit) ، وإرفاق البطارية. سيتم حفظ البرنامج على المايكروبيت (micro:bit).
 
-![screenshot](images/badge-battery.jpg)
+![لقطة الشاشة](images/badge-battery.jpg)
 
-You don't need an account to save your stuff! Your project will automatically be saved in the browser, you can click on `Projects` to see your projects.
+لا تحتاج إلى حساب Trinket لحفظ مشاريعك! سيتم حفظ مشروعك تلقائيًا في المتصفح ، يمكنك النقر فوق ` مشروعات ` لرؤية مشاريعك.
 
-You can also click save to download your project as a `.hex` file which contains your project:
+يمكنك أيضًا النقر على الحفظ لتحميل مشروعك كملف `.hex` الذي يحتوي على مشروعك:
 
-![screenshot](images/badge-save.png)
+![لقطة الشاشة](images/badge-save.png)
 
-To load your project on another computer, click 'Projects' and then 'Import file' and select your `.hex` file.
+لتحميل مشروعك على حاسوب آخر ، انقر فوق "مشاريع" ثم "استيراد ملف" وحدد <x>.x </code> ملف.
 
-![screenshot](images/badge-import.png)
+![لقطة الشاشة](images/badge-import.png)
