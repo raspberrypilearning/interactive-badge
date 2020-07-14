@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Create your own interactive badge!
+## Herausforderung: Erstelle dein eigenes interaktives Abzeichen!
 
-Create your own badge - you can use any images or animations you like!
+Erstelle dein eigenes Abzeichen - Du kannst beliebige Bilder oder Animationen verwenden!
 
 \--- /challenge \---
