@@ -1,5 +1,5 @@
 ---
-title: Interactive badge
+title: Interaktives Abzeichen
 hero_image: images/interactive-badge.png
 theme: turquoise
 duration: 2
@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-1, community-0
-description: Make a badge that shows your mood
+description: Mach ein Abzeichen, das deine Stimmung zeigt
 original_url: https://codeclubprojects.org/en-GB/microbit/interactive-badge
 interests: wearable-technology
 technologies: microbit
@@ -18,14 +18,14 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Introduction
+    title: Einleitung
   - 
-    title: Displaying an image
+    title: Ein Bild anzeigen
   - 
-    title: Displaying a happy face
+    title: Ein glückliches Gesicht zeigen
   - 
-    title: 'Challenge: Displaying a sad face'
+    title: 'Herausforderung: Ein trauriges Gesicht zeigen'
   - 
-    title: Creating a simple animation
+    title: Eine einfache Animation erstellen
   - 
-    title: 'Challenge: Create your own interactive badge!'
+    title: 'Herausforderung: Erstelle dein eigenes interaktives Abzeichen!'
