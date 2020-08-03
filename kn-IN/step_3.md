@@ -1,21 +1,21 @@
-## Displaying a happy face
+## ಸಂತೋಷದ ಮುಖವನ್ನು ಪ್ರದರ್ಶಿಸುವುದು
 
-Let's show a happy face on your micro:bit when the 'A' button is pressed.
+'ಎ' ಗುಂಡಿಯನ್ನು ಒತ್ತಿದಾಗ ನಿಮ್ಮ micro:bitನಲ್ಲಿ ಸಂತೋಷದ ಮುಖವನ್ನು ತೋರಿಸೋಣ.
 
-+ So far, you've only run code when the micro:bit is powered on. You can also run code when a button is pressed.
++ ಇಲ್ಲಿಯವರೆಗೆ, micro:bit ಚಾಲನೆಯಲ್ಲಿರುವಾಗ ಮಾತ್ರ ನೀವು ಕೋಡ್ ಅನ್ನು ಚಲಾಯಿಸುತ್ತಿದ್ದೀರಿ. ಗುಂಡಿಯನ್ನು ಒತ್ತಿದಾಗ ಕೂಡ ನೀವು ಕೋಡ್ ಅನ್ನು ಚಲಾಯಿಸಬಹುದು.
 
-Drag an 'on button pressed' block from input and make sure 'A' is selected:
+ಇನ್ಪುಟ್ನಿಂದ 'on button pressed' ಬ್ಲಾಕ್ ಅನ್ನು ಎಳೆಯಿರಿ ಮತ್ತು 'ಎ' ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ:
 
-![screenshot](images/badge-button-a.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-button-a.png)
 
-Any code added inside this block will run when the 'A' button on your micro:bit is pressed.
+ನಿಮ್ಮ micro:bitನಲ್ಲಿರುವ 'ಎ' ಗುಂಡಿಯನ್ನು ಒತ್ತಿದಾಗ ಈ ಬ್ಲಾಕ್‌ನೊಳಗೆ ಸೇರಿಸಲಾದ ಯಾವುದಾದರು ಕೋಡ್ ಚಾಲನೆಯಾಗುತ್ತದೆ.
 
-+ Drag another `show leds` block inside your new event, and draw a happy face pattern.
++ ಮತ್ತೊಂದು `show leds` ಬ್ಲಾಕನ್ನು ನಿಮ್ಮ ಹೊಸ ಈವೆಂಟ್‌ನೊಳಗೆ ನಿರ್ಬಂಧಿಸಿ ಮತ್ತು ಸಂತೋಷದ ಮುಖದ ಮಾದರಿಯನ್ನು ಬರೆಯಿರಿ.
 
-![screenshot](images/badge-happy.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-happy.png)
 
-+ Test out your new code in the emulator. Press the 'A' button and you should see a happy face on your micro:bit:
++ ಎಮ್ಯುಲೇಟರ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಹೊಸ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ. 'ಎ' ಗುಂಡಿಯನ್ನು ಒತ್ತಿ ಮತ್ತು ನಿಮ್ಮ micro:bitನಲ್ಲಿ ನೀವು ಸಂತೋಷದ ಮುಖವನ್ನು ನೋಡಬೇಕು:
 
-![screenshot](images/badge-happy-emulator.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-happy-emulator.png)
 
-You can also test out your new code on your micro:bit.
+ನಿಮ್ಮ ಹೊಸ ಕೋಡ್ ಅನ್ನು ನಿಮ್ಮ micro:bitನಲ್ಲಿ ಸಹ ನೀವು ಪರೀಕ್ಷಿಸಬಹುದು.
