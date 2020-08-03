@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Create your own interactive badge!
+## ಸವಾಲು: ನಿಮ್ಮ ಸ್ವಂತ ವಿನಿಮಯ ಬ್ಯಾಡ್ಜ್ ರಚಿಸಿ!
 
-Create your own badge - you can use any images or animations you like!
+ನಿಮ್ಮ ಸ್ವಂತ ಬ್ಯಾಡ್ಜ್ ರಚಿಸಿ - ನೀವು ಇಷ್ಟಪಡುವ ಯಾವುದೇ ಚಿತ್ರಗಳು ಅಥವಾ ಅನಿಮೇಷನ್‌ಗಳನ್ನು ನೀವು ಬಳಸಬಹುದು!
 
 \--- /challenge \---
