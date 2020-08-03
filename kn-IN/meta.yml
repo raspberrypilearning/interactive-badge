@@ -1,5 +1,5 @@
 ---
-title: Interactive badge
+title: ಸಂವಾದಾತ್ಮಕ ಬ್ಯಾಡ್ಜ್
 hero_image: images/interactive-badge.png
 theme: turquoise
 duration: 2
@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-1, community-0
-description: Make a badge that shows your mood
+description: ನಿಮ್ಮ ಮನಸ್ಥಿತಿಯನ್ನು ತೋರಿಸುವ ಬ್ಯಾಡ್ಜ್ ಮಾಡಿ
 original_url: https://codeclubprojects.org/en-GB/microbit/interactive-badge
 interests: wearable-technology
 technologies: microbit
@@ -18,14 +18,14 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
   - 
-    title: Introduction
+    title: ಪರಿಚಯ
   - 
-    title: Displaying an image
+    title: ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸುವುದು
   - 
-    title: Displaying a happy face
+    title: ಸಂತೋಷದ ಮುಖವನ್ನು ಪ್ರದರ್ಶಿಸುವುದು
   - 
-    title: 'Challenge: Displaying a sad face'
+    title: 'ಸವಾಲು: ದುಃಖದ ಮುಖವನ್ನು ಪ್ರದರ್ಶಿಸುವುದು'
   - 
-    title: Creating a simple animation
+    title: ಸರಳ ಅನಿಮೇಷನ್ ರಚಿಸುವುದು
   - 
-    title: 'Challenge: Create your own interactive badge!'
+    title: 'ಸವಾಲು: ನಿಮ್ಮ ಸ್ವಂತ ವಿನಿಮಯ ಬ್ಯಾಡ್ಜ್ ರಚಿಸಿ!'
