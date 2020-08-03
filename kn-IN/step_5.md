@@ -1,23 +1,23 @@
-## Creating a simple animation
+## ಸರಳ ಅನಿಮೇಷನ್ ರಚಿಸುವುದು
 
-Let's create a (very) simple animation for your happy and sad faces.
+ನಿಮ್ಮ ಸಂತೋಷದ ಮತ್ತು ದುಃಖದ ಮುಖಗಳಿಗಾಗಿ (ಅತ್ಯಂತ) ಸರಳ ಅನಿಮೇಷನ್ ಅನ್ನು ರಚಿಸೋಣ.
 
-+ Add a second `show leds` block to your `on button A pressed` block, with a neutral face.
++ ಎರಡನೇ `show leds` ಸೇರಿಸಿ ತಟಸ್ಥ ಮುಖದೊಂದಿಗೆ ನಿಮ್ಮ ` on button A pressed`ನಿರ್ಬಂಧಿಸಿ ಬಟನ್ ಅನ್ನು ಒತ್ತಿ.
 
-![screenshot](images/badge-neutral.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-neutral.png)
 
-+ If you run this code to test it, you'll notice that the pattern changes quickly. For a longer delay, you'll need to add a `pause` block between the two images being displayed.
++ ಇದನ್ನು ಪರೀಕ್ಷಿಸಲು ನೀವು ಈ ಕೋಡ್ ಅನ್ನು ಚಲಾಯಿಸಿದರೆ, ಮಾದರಿಯು ತ್ವರಿತವಾಗಿ ಬದಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೀವು ಗಮನಿಸಬಹುದು. ದೀರ್ಘ ವಿಳಂಬಕ್ಕಾಗಿ, ನೀವು ` pause ` ಬ್ಲಾಕನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುವ ಎರಡು ಚಿತ್ರಗಳ ನಡುವೆ ಸೇರಿಸಬೇಕು.
 
-![screenshot](images/badge-pause.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-pause.png)
 
-To choose how many milliseconds to wait, click the down-arrow and enter a number. 1000 milliseconds is 1 second, so 250 milliseconds is a quarter of a second.
+ಎಷ್ಟು ಮಿಲಿಸೆಕೆಂಡುಗಳು ಕಾಯಬೇಕೆಂದು ಆಯ್ಕೆ ಮಾಡಲು, ಕೆಳಗಿನ -ಬಾಣ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ. 1000 ಮಿಲಿಸೆಕೆಂಡುಗಳು 1 ಸೆಕೆಂಡ್, ಆದ್ದರಿಂದ 250 ಮಿಲಿಸೆಕೆಂಡುಗಳು ಒಂದು ಸೆಕೆಂಡಿನ ಕಾಲು ಭಾಗ.
 
-+ You'll also need to animate your sad face. The easiest way to do this is to duplicate the blocks you've just created. Right-click on a block to duplicate it. Note that the PXT editor just duplicates one block at a time (not multiple blocks like Scratch.)
++ ನಿಮ್ಮ ದುಃಖದ ಮುಖವನ್ನು ನೀವು ಅನಿಮೇಟ್ ಮಾಡಬೇಕಾಗುತ್ತದೆ. ಇದನ್ನು ಮಾಡಲು ಸುಲಭವಾದ ಮಾರ್ಗವೆಂದರೆ ನೀವು ಇದೀಗ ರಚಿಸಿದ ಬ್ಲಾಕ್‌ಗಳನ್ನು ನಕಲು ಮಾಡುವುದು. ಅದನ್ನು ನಕಲು ಮಾಡಲು ಬ್ಲಾಕ್ ಮೇಲೆ ಬಲ ಕ್ಲಿಕ್ ಮಾಡಿ. ಪಿಎಕ್ಸ್‌ಟಿ ಸಂಪಾದಕವು ಒಂದು ಸಮಯದಲ್ಲಿ ಒಂದು ಬ್ಲಾಕ್ ಅನ್ನು ನಕಲು ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ (Scratch ನಂತೆ ಬಹು ಬ್ಲಾಕ್‌ಗಳಲ್ಲ.)
 
-+ You can then drag these blocks into your `on button B pressed` block. This is how your code should look:
++ ಇದನ್ನು ಮಾಡಲು ಈ ಬ್ಲಾಕುಗಳನ್ನು ನಿಮ್ಮ `on button B pressed` ಬ್ಲಾಕಿನಲ್ಲಿ ಎಳಿಯಿರಿ. ನಿಮ್ಮ ಕೋಡ್ ಹೇಗೆ ಕಾಣಬೇಕು ಎಂಬುದು ಇಲ್ಲಿದೆ:
 
-![screenshot](images/badge-on-b-pressed.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-on-b-pressed.png)
 
-+ Test your code, and you should see your animated happy and sad faces when you press button A and B.
++ ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ, ನೀವು ಎ ಮತ್ತು ಬಿ ಗುಂಡಿಯನ್ನು ಒತ್ತಿದಾಗ ನಿಮ್ಮ ಅನಿಮೇಟೆಡ್ ಸಂತೋಷ ಮತ್ತು ದುಃಖದ ಮುಖಗಳನ್ನು ನೀವು ನೋಡಬೇಕು.
 
-![screenshot](images/badge-final.gif)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-final.gif)
