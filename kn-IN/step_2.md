@@ -1,59 +1,59 @@
-## Displaying an image
+## ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತಿದೆ
 
-Let's start by showing an image on your micro:bit when it's powered on.
+ನಿಮ್ಮ ಮೈಕ್ರೋ: ಬಿಟ್‌ನಲ್ಲಿ ಅದು ಚಾಲನೆಯಲ್ಲಿರುವಾಗ ಚಿತ್ರವನ್ನು ತೋರಿಸುವ ಮೂಲಕ ಪ್ರಾರಂಭಿಸೋಣ.
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Interactive badge'.
++ <a href="https://rpf.io/microbit-new" target="_blank"> rpf.io/microbit-New</a> ಗೆ ಹೋಗಿ ಮೇಕ್‌ಕೋಡ್ (ಪಿಎಕ್ಸ್‌ಟಿ) ಸಂಪಾದಕದಲ್ಲಿ ಹೊಸ ಯೋಜನೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ. ನಿಮ್ಮ ಹೊಸ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು 'ಸಂವಾದಾತ್ಮಕ ಬ್ಯಾಡ್ಜ್' ಎಂದು ಕರೆಯಿರಿ.
 
-![screenshot](images/badge-name.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-name.png)
 
-+ You should now see the code editor. To draw an image on your micro:bit when it's powered on, drag a `show leds` block from the code area (on the left) inside the `start` block.
++ ನೀವು ಈಗ ಕೋಡ್ ಸಂಪಾದಕವನ್ನು ನೋಡಬೇಕು. ನಿಮ್ಮ micro:bit ‌ನಲ್ಲಿ ಅದು ಚಾಲನೆಯಲ್ಲಿರುವಾಗ ಚಿತ್ರವನ್ನು ರಚಿಸಲು, ` show leds` ಪ್ರಾರಂಭದ ಒಳಗೆ ಕೋಡ್ ಪ್ರದೇಶದಿಂದ (ಎಡಭಾಗದಲ್ಲಿ) ನಿರ್ಬಂಧಿಸಿ `start` ಬ್ಲಾಕ್.
 
-![screenshot](images/badge-draw.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-draw.png)
 
-+ To create an image to display, click on leds that you want to light up:
++ ಪ್ರದರ್ಶಿಸಲು ಚಿತ್ರವನ್ನು ರಚಿಸಲು, ನೀವು ಬೆಳಗಿಸಲು ಬಯಸುವ ಲೆಡ್‌ಗಳ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ:
 
-![screenshot](images/badge-pattern.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-pattern.png)
 
-+ Your code will run automatically in the emulator on the left:
++ ನಿಮ್ಮ ಕೋಡ್ ಎಡಭಾಗದಲ್ಲಿರುವ ಎಮ್ಯುಲೇಟರ್‌ನಲ್ಲಿ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಚಲಿಸುತ್ತದೆ:
 
-![screenshot](images/badge-emulator.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-emulator.png)
 
-+ You can also test your code on the micro:bit itself! To do this, click 'Download' on the menu at the left of the screen.
++ ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ನೀವು micro:bit ನಲ್ಲಿ ಸಹ ಪರೀಕ್ಷಿಸಬಹುದು! ಇದನ್ನು ಮಾಡಲು, ಪರದೆಯ ಎಡಭಾಗದಲ್ಲಿರುವ ಮೆನುವಿನಲ್ಲಿ 'ಡೌನ್‌ಲೋಡ್' ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-![screenshot](images/badge-download.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-download.png)
 
-This will create and download a `.hex` file that will run on your micro:bit.
+ಇದು ನಿಮ್ಮ micro:bit ನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ `.hex` ಫೈಲ್ ಅನ್ನು ರಚಿಸಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡುತ್ತದೆ.
 
-+ Use the USB cable to plug your micro:bit into your computer. You should then see your micro:bit appear in your computer's file manager as a USB drive. 
++ ನಿಮ್ಮ micro:bit ಅನ್ನು ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ಗೆ ಪ್ಲಗ್ ಮಾಡಲು USB ಕೇಬಲ್ ಬಳಸಿ. ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನ ಫೈಲ್ ಮ್ಯಾನೇಜರ್‌ನಲ್ಲಿ USB ಡ್ರೈವ್ ಆಗಿ ನಿಮ್ಮ micro:bit ಕಾಣಿಸಿಕೊಳ್ಳುವುದನ್ನು ನೀವು ನೋಡಬಹುದು. 
 
-![screenshot](images/badge-drive.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-drive.png)
 
-+ If you are using the micro:bit uploader then the `.hex` file will be automatically copied to the micro:bit. Check with your volunteer if you're not sure. 
++ ನೀವು micro:bit ಅಪ್‌ಲೋಡರ್ ಬಳಸುತ್ತಿದ್ದರೆ `.hex ` ಫೈಲ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮೈಕ್ರೋ: ಬಿಟ್‌ಗೆ ಕಳುಹಿಸಲಾಗುತ್ತದೆ. ನಿಮಗೆ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ ನಿಮ್ಮ ಸ್ವಯಂಸೇವಕರೊಂದಿಗೆ ಸ್ವಯಂಸೇವಕರಲ್ಲಿ ಕೇಳಿ. 
 
-Otherwise you will need to copy the `.hex` file to the micro:bit.
+ಇಲ್ಲದಿದ್ದರೆ ನೀವು `.hex ` ಫೈಲನ್ನು micro:bitಗೆ ಕಳುಹಿಸಬೇಕಾಗುತ್ತದೆ.
 
-If you are using **Internet Explorer** you can choose `Save as` from the menu that appears at the bottom of your browser and then select the micro:bit drive:
+ನೀವು ** ಇಂಟರ್ನೆಟ್ ಎಕ್ಸ್‌ಪ್ಲೋರರ್** ಬಳಸುತ್ತಿದ್ದರೆ ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನ ಕೆಳಭಾಗದಲ್ಲಿ ಗೋಚರಿಸುವ `Save as` ಮೆನುವಿನಿಂದ micro:bit ಡ್ರೈವ್ ಅನ್ನು ಆರಿಸಿ, ಇದನ್ನು ಸೇವ್ ಮಾಡಬಹುದು:
 
-![screenshot](images/badge-save-explorer.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-save-explorer.png)
 
-If you are using **Google Chrome** you can click on the arrow after the downloaded file and choose 'Show in folder' and then drag the highlighted file to the micro:bit drive:
+ನೀವು ** Google Chrome ** ಬಳಸುತ್ತಿದ್ದರೆ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದ ಫೈಲ್‌ನ ಪಕ್ಕದಲ್ಲಿರುವ ಬಾಣದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು 'Show in folder' ಆಯ್ಕೆಮಾಡಿ ನಂತರ ಹೈಲೈಟ್ ಮಾಡಿದ ಫೈಲ್ ಅನ್ನು micro:bit ಡ್ರೈವ್‌ಗೆ ಎಳೆಯಿರಿ:
 
-![screenshot](images/badge-save-chrome.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-save-chrome.png)
 
-+ A light on the back of your micro:bit will flash while the file is being copied. Once this has stopped your program will run. You can click the reset button on the back of your micro:bit to restart the program.
++ ಫೈಲ್ ಅನ್ನು ಕಳುಹಿಸುವಾಗ ನಿಮ್ಮ micro:bitನ ಹಿಂಭಾಗದಲ್ಲಿರುವ ಬೆಳಕು ಮಿಂಚುತ್ತದೆ. ಇದನ್ನು ನಿಲ್ಲಿಸಿದ ನಂತರ ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಚಾಲನೆಯಾಗುತ್ತದೆ. ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಲು ನಿಮ್ಮ micro:bitನ ಹಿಂಭಾಗದಲ್ಲಿರುವ ಮರುಹೊಂದಿಸುವ ಗುಂಡಿಯನ್ನು ನೀವು ಕ್ಲಿಕ್ ಮಾಡಬಹುದು.
 
-![screenshot](images/badge-reset.jpg)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-reset.jpg)
 
-+ You should now see your image on the micro:bit. If you prefer, you can remove the USB cable from your micro:bit, and attach the battery. The program will be saved on the micro:bit.
++ ನೀವು ಈಗ ನಿಮ್ಮ ಚಿತ್ರವನ್ನು micro:bitನಲ್ಲಿ ನೋಡಬೇಕು. ನೀವು ಬಯಸಿದರೆ, ನಿಮ್ಮ micro:bitನಿಂದ USB ಕೇಬಲ್ ಅನ್ನು ತೆಗೆದು ಬ್ಯಾಟರಿಯನ್ನು ಸೇರಿಸಬಹುದು. ಪ್ರೋಗ್ರಾಂ ಅನ್ನು micro:bitನಲ್ಲಿ ಉಳಿಸಲಾಗುತ್ತದೆ.
 
-![screenshot](images/badge-battery.jpg)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-battery.jpg)
 
-You don't need an account to save your stuff! Your project will automatically be saved in the browser, you can click on `Projects` to see your projects.
+ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಉಳಿಸಲು ನಿಮಗೆ ಖಾತೆ ಅಗತ್ಯವಿಲ್ಲ! ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಉಳಿಸಲ್ಪಡುತ್ತದೆ, ನಿಮ್ಮ ಯೋಜನೆಗಳನ್ನು ನೋಡಲು, ನೀವು `Projects` ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಬಹುದು.
 
-You can also click save to download your project as a `.hex` file which contains your project:
+ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಒಳಗೊಂಡಿರುವ`.hex` ಫೈಲ್ ಆಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ನೀವು ಸೇವ್ ಕ್ಲಿಕ್ ಮಾಡಬಹುದು:
 
-![screenshot](images/badge-save.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-save.png)
 
-To load your project on another computer, click 'Projects' and then 'Import file' and select your `.hex` file.
+ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಮತ್ತೊಂದು ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ ಲೋಡ್ ಮಾಡಲು, 'Projects' ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು 'Import file' ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಿಮ್ಮ `.hex ` ಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ.
 
-![screenshot](images/badge-import.png)
+![ಸ್ಕ್ರೀನ್ ಶಾಟ್](images/badge-import.png)
