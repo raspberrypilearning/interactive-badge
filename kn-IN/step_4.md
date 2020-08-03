@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Displaying a sad face
+## ಸವಾಲು: ದುಃಖದ ಮುಖವನ್ನು ಪ್ರದರ್ಶಿಸುವುದು
 
-Can you make your micro:bit display a sad face when the 'B' button is pressed? You'll need to use another 'on button pressed' block to do this and select 'B'.
+'ಬಿ' ಗುಂಡಿಯನ್ನು ಒತ್ತಿದಾಗ ನಿಮ್ಮ micro:bit ದುಃಖದ ಮುಖವನ್ನು ಪ್ರದರ್ಶಿಸಬಹುದೇ? ಇದನ್ನು ಮಾಡಲು ನೀವು ಇನ್ನೊಂದು 'on button pressed' ಬ್ಲಾಕ್ ಅನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ ಮತ್ತು 'ಬಿ' ಆಯ್ಕೆಮಾಡಿ.
 
-![screenshot](images/badge-sad-emulator.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (screenshot)](images/badge-sad-emulator.png)
 
 \--- /challenge \---
