@@ -2,7 +2,7 @@
 
 ನೀವು ಸಂವಾದಾತ್ಮಕ ಬ್ಯಾಡ್ಜ್ ಮಾಡಲು ಹೊರಟಿದ್ದೀರಿ, ಅದು ನಿಮ್ಮ ಮನಸ್ಥಿತಿಯನ್ನು ನಿಮ್ಮ ಸ್ನೇಹಿತರಿಗೆ ತೋರಿಸುತ್ತದೆ.
 
-** ಸೂಚನೆಗಳು **: ನೀವು ಇದನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಓದುತ್ತಿದ್ದರೆ, ಸಂತೋಷದ ಮುಖವನ್ನು ಸೂಚಿಸಲು ಕೆಳಗಿರುವ ಮೈಕ್ರೊ:ಬಿಟ್ನಲ್ಲಿ ** ಎ ** ಮತ್ತು ** ಬಿ ** ದುಃಖದ ಮುಖವನ್ನು ತೋರಿಸಲು ಒತ್ತಿ.
+** ಸೂಚನೆಗಳು **: ನೀವು ಇದನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಓದುತ್ತಿದ್ದರೆ, ಸಂತೋಷದ ಮುಖವನ್ನು ಸೂಚಿಸಲು ಕೆಳಗಿರುವ micro:bit **A** ಮತ್ತು **B** ದುಃಖದ ಮುಖವನ್ನು ತೋರಿಸಲು ಒತ್ತಿ.
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_M6yLfbemfPUv" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
@@ -39,7 +39,7 @@
 
 ## ಸವಾಲುಗಳು
 
-* "ದುಃಖದ ಮುಖವನ್ನು ಪ್ರದರ್ಶಿಸುವುದು " - ಹೊಸ ಈವೆಂಟ್ ` ಗುಂಡಿ ಒತ್ತಿದಾಗ `ಕೋಡ್ ಸೇರಿಸುವುದು;
+* "ದುಃಖದ ಮುಖವನ್ನು ಪ್ರದರ್ಶಿಸುವುದು " - ಹೊಸ ಈವೆಂಟ್ `on button pressed`ಕೋಡ್ ಸೇರಿಸುವುದು;
 * "ನಿಮ್ಮ ಸ್ವಂತ ಸಂವಾದಾತ್ಮಕ ಬ್ಯಾಡ್ಜ್ ರಚಿಸಿ!" - ಈ ಪ್ರಾಜೆಕ್ಟ್ನಲ್ಲಿ ಕಲಿತ ಕೌಶಲ್ಯಗಳ ಬಲವರ್ಧನೆ.
 
 \--- /collapse \---
@@ -51,6 +51,6 @@
 ## ಕ್ಲಬ್ ಮುಖಂಡರ ಸಂಪನ್ಮೂಲಗಳು
 
 * [ಆನ್‌ಲೈನ್ ಪೂರ್ಣಗೊಂಡ ಪ್ರಾಜೆಕ್ಟ್](https://makecode.microbit.org/#pub:90418-17495-16581-63753)
-* [.hex ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್ಲ್ ಅನ್ನು ನಿಮ್ಮ micro:bit‌ಗೆ ವರ್ಗಾಯಿಸಲು](resources/microbit-Interactive-Badge.hex)
+* [.hex ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್ಲ್ ಅನ್ನು ನಿಮ್ಮ micro:bit‌ ಗೆ ವರ್ಗಾಯಿಸಲು](resources/microbit-Interactive-Badge.hex)
 
 \--- /collapse \---
