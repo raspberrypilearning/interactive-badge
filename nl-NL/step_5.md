@@ -14,7 +14,7 @@ Om te kiezen hoeveel milliseconden wordt gewacht, klik je op de pijl omlaag en v
 
 + Je zult ook je droevige gezicht moeten animeren. De eenvoudigste manier om dit te doen, is door de blokken die je zojuist hebt gemaakt te dupliceren. Klik met de rechtermuisknop op een blok om het te dupliceren. Je zult zien dat de PXT-editor slechts één blok tegelijk dupliceert (niet meerdere blokken zoals Scratch.)
 
-+ Je kunt deze blokken vervolgens naar je `wanneer knop B wordt gedrukt` blok slepen. Dit is hoe je code eruit zou moeten zien:
++ Je kunt deze blokken vervolgens naar je `wanneer knop B wordt ingedrukt` blok slepen. Dit is hoe je code eruit zou moeten zien:
 
 ![schermafbeelding](images/badge-on-b-pressed.png)
 
