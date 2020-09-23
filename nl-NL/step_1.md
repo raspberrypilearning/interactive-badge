@@ -10,11 +10,11 @@ Je gaat een interactieve badge maken, die je humeur aan je vrienden laat zien.
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/interactive-badge/print).
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/interactive-badge/print).
 
 ## \--- collapse \---
 
-## titel: Clubleider notities
+## title: Clubleider notities
 
 ## Inleiding:
 
@@ -33,7 +33,7 @@ Je kunt een voltooide versie van dit project vinden op [makecode.microbit.org/#p
 * Invoer (`wanneer knop wordt ingedrukt`);
 * Instructies in een reeks zetten.
 
-Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum):
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Gebruik eenvoudige programmeerconstructies om simpele programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator)
 
