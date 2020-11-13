@@ -10,7 +10,7 @@ Je gaat een interactieve badge maken, die je humeur aan je vrienden laat zien.
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/interactive-badge/print).
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/interactive-badge/print).
 
 --- collapse ---
 ---
