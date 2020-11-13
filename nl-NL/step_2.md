@@ -2,7 +2,7 @@
 
 Laten we beginnen met het weergeven van een afbeelding op je micro:bit wanneer deze is ingeschakeld.
 
-+ Ga naar <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> om een ​​nieuw project te starten in de MakeCode (PXT) editor. Noem je nieuwe project 'Interactieve badge'.
++ Ga naar <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> om een nieuw project te starten in de MakeCode (PXT) editor. Noem je nieuwe project 'Interactieve badge'.
 
 ![schermafbeelding](images/badge-name.png)
 
