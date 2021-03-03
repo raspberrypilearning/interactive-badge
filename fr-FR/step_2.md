@@ -1,62 +1,59 @@
-## Displaying an image
+## Afficher une image
 
-Commençons par afficher une image sur la micro:bit quand elle démarre.
+Commençons par afficher une image sur ton micro:bit quand il est allumé.
 
-+ Va sur <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> pour démarrer un nouveau projet dans l'éditeur PXT. Appelle ton nouveau projet 'Badge interactif'.
++ Va sur <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> pour démarrer un nouveau projet dans l'éditeur MakeCode (PXT). Appelle ton nouveau projet « Badge interactif ».
 
-![screenshot](images/badge-name.png)
+![capture d'écran](images/badge-name.png)
 
-+ Tu dois maintenant voir l'éditeur de code. Pour dessiner une image sur ton micro:bit quand elle démarre, place un bloc `montrer LEDs` dans la zone de code (sur la gauche) à l'intérieur du bloc `au démarrage`.
++ Tu devrais maintenant voir l'éditeur de code. Pour dessiner une image sur ton micro:bit quand il démarre, place un bloc `montrer Leds` dans la zone de code (sur la gauche) à l'intérieur du bloc `au démarrage`.
 
-![screenshot](images/badge-draw.png)
+![capture d’écran](images/badge-draw.png)
 
-+ Pour créer une image à afficher, clique sur les LEDs que tu veux allumer&nbsp;:
++ Pour créer une image à afficher, clique sur les leds que tu veux allumer :
 
-![screenshot](images/badge-pattern.png)
+![capture d'écran](images/badge-pattern.png)
 
-+ Ton code s’exécutera automatiquement dans l'émulateur sur la gauche.&nbsp;:
++ Ton code s’exécutera automatiquement dans l'émulateur sur la gauche :
 
-![screenshot](images/badge-emulator.png)
+![capture d'écran](images/badge-emulator.png)
 
-+ Tu peux aussi tester ton code sur la micro:bit elle même&nbsp;! Pour cela, clique sur 'Télécharger' dans le menu à gauche de l'écran.
++ Tu peux aussi tester ton code sur le micro:bit lui-même ! Pour cela, clique sur « Télécharger » dans le menu à gauche de l'écran.
 
-![screenshot](images/badge-download.png)
+![capture d'écran](images/badge-download.png)
 
 Cela va créer et télécharger un fichier `.hex` que tu pourras exécuter sur ton micro:bit.
 
-+ Utilise un cable USB pour brancher ton micro:bit sur ton ordinateur. Tu devrais voir apparaître ton micro:bit dans le gestionnaire de fichiers, sous la forme d'une clé USB.
++ Utilise un câble USB pour brancher ton micro:bit sur ton ordinateur. Tu devrais voir apparaître ton micro:bit dans le gestionnaire de fichiers, sous la forme d'une clé USB. 
 
-![screenshot](images/badge-drive.png)
+![capture d'écran](images/badge-drive.png)
 
-+ Si tu utiliser l'uploader micro:bit alors le fichier `.hex` sera automatiquement copié sur la micro:bit. Demande à un bénévole si tu n'es pas sûr.
++ Si tu utilises le micro:bit uploader alors le fichier `.hex` sera automatiquement copié sur le micro:bit. Demande à un bénévole si tu n'es pas sûr. 
 
-Sinon tu devras copier le fichier `.hex` sur la micro:bit.
+Sinon tu devras copier le fichier `.hex` sur le micro:bit.
 
-Si tu utilises __Internet Explorer__ tu peux sélectionner `Enregistrer sous` dans le menu qui apparaît au bas de ton navigateur, puis sélectionner le disque micro:bit&nbsp;:
+Si tu utilises **Internet Explorer** tu peux sélectionner `Enregistrer sous` dans le menu qui apparaît au bas de ton navigateur, puis sélectionner le disque micro:bit :
 
-![screenshot](images/badge-save-explorer.png)
+![capture d'écran](images/badge-save-explorer.png)
 
-Si tu utilises  __Google Chrome__ tu peux cliquer sur la flèche à côté du fichier et choisir 'Afficher dans le dossier', puis déplacer le fichier sélectionné sur le disque micro:bit&nbsp;:
+Si tu utilises **Google Chrome** tu peux cliquer sur la flèche à côté du fichier et choisir « Afficher dans le dossier », puis déplacer le fichier sélectionné sur le disque micro:bit :
 
-![screenshot](images/badge-save-chrome.png)
+![capture d'écran](images/badge-save-chrome.png)
 
-+ Une lumière à l'arrière de ton micro:bit va clignoter pendant quelques instants, le tant que le fichier soit copié. Une fois que c'est terminé, ton programme va démarrer. Tu peux cliquer sur le bouton reset à l'arrière de ton micro:bit pour redémarrer le programme.
++ Un voyant à l'arrière de ton micro: bit clignotera pendant la copie du fichier. Une fois que c'est terminé, ton programme s'exécutera. Tu peux cliquer sur le bouton reset à l'arrière de ton micro:bit pour redémarrer le programme.
 
-![screenshot](images/badge-reset.jpg)
+![capture d'écran](images/badge-reset.jpg)
 
-+ Tu devrais maintenant voir ton image sur la micro:bit.
-  Si tu préfères, tu peux enlever le cable USB de ton micro:bit, et la brancher sur des piles.
-  Le programme enregistré sur la micro:bit va démarrer.
++ Tu devrais maintenant voir ton image sur le micro:bit. Si tu préfères, tu peux enlever le câble USB de ton micro:bit, et le brancher sur la batterie. Le programme sera sauvegardé sur le micro:bit.
 
-![screenshot](images/badge-battery.jpg)
+![capture d'écran](images/badge-battery.jpg)
 
-Tu n'as pas besoin d'un compte pour enregistrer ton programme&nbsp;!
-Ton projet sera automatiquement enregistré dans ton navigateur, tu peux cliquer sur `Projets` pour voir tes projets.
+Tu n'as pas besoin d'un compte pour enregistrer ton programme ! Ton projet sera automatiquement enregistré dans ton navigateur, tu peux cliquer sur `Projets` pour voir tes projets.
 
-Tu peux aussi cliquer sur Enregistrer pour télécharger ton projet sous la forme d'un fichier `.hex` qui contient ton programme&nbsp;:
+Tu peux aussi cliquer sur Enregistrer pour télécharger ton projet sous la forme d'un fichier `.hex` qui contient ton projet :
 
-![screenshot](images/badge-save.png)
+![capture d'écran](images/badge-save.png)
 
-Pour charger ton projet sur un autre ordinateur, clique sur 'Projets', puis sur 'Importer un fichier' et sélectionne ton fichier `.hex`.
+Pour charger ton projet sur un autre ordinateur, clique sur « Projets », puis sur « Importer un fichier » et sélectionne ton fichier `.hex`.
 
-![screenshot](images/badge-import.png)
+![capture d'écran](images/badge-import.png)
