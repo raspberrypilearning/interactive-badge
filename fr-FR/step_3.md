@@ -1,21 +1,21 @@
-## Affiche un sourire
+## Afficher un visage heureux
 
-Montrons maintenant un sourire sur ton micro:bit quand le bouton 'A' est pressé.
+Affichons un visage heureux sur ton micro:bit lorsque le bouton « A » est pressé.
 
-+ Jusqu'ici, tu as seulement exécuté du code au démarrage de la the micro:bit. Tu peux aussi exécuter du code quand un bouton est pressé.
++ Jusqu'à présent, tu n'as exécuté le code que lorsque le micro: bit est allumé. Tu peux aussi exécuter du code lorsqu'un bouton est pressé.
 
-Place un bloc `Lorsque le bouton est pressé` et vérifie que le bouton A est sélectionné&nbsp;
+Fais glisser un bloc « lorsque le bouton est pressé » depuis Entrées et assures-toi que « A » est sélectionné :
 
-![screenshot](images/badge-button-a.png)
+![capture d’écran](images/badge-button-a.png)
 
-Tout le code ajouté à l'intérieur de ce bloc ne s'exécutera que lorsque le bouton 'A' de ton micro:bit sera pressé.
+Tout le code ajouté à l'intérieur de ce bloc ne s'exécutera que lorsque le bouton « A » de ton micro:bit sera pressé.
 
-+ Place un bloc `montrer LEDs` à l'intérieur de ton nouvel événement, pour dessiner un visage souriant.
++ Fais glisser un autre bloc `montrer LEDs` à l'intérieur de ton nouvel événement et dessine un motif de visage heureux.
 
-![screenshot](images/badge-happy.png)
+![capture d'écran](images/badge-happy.png)
 
-+ Teste ton code dans l'émulateur. Clique sur le bouton 'A' et tu devrais voir apparaître un visage souriant sur ton micro:bit&nbsp;:
++ Teste ton nouveau code dans l'émulateur. Appuie sur le bouton « A » et tu devrais voir un visage heureux sur ton micro:bit :
 
-![screenshot](images/badge-happy-emulator.png)
+![capture d'écran](images/badge-happy-emulator.png)
 
-Tu peux aussi tester ton code sur ton micro:bit.
+Tu peux également tester ton nouveau code sur ton micro:bit.
