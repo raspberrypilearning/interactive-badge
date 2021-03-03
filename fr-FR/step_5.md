@@ -1,23 +1,23 @@
-## Creating a simple animation
+## Créer une animation simple
 
-Let's create a (very) simple animation for your happy and sad faces.
+Créons une animation (très) simple pour tes visages heureux et tristes.
 
-+ Add a second `show leds` block to your `on button A pressed` block, with a neutral face.
++ Ajoute un deuxième bloc `montrer LEDs` dans ton bloc `lorsque le bouton A est pressé`, avec un visage neutre.
 
-![screenshot](images/badge-neutral.png)
+![capture d'écran](images/badge-neutral.png)
 
-+ If you run this code to test it, you'll notice that the pattern changes quickly. For a longer delay, you'll need to add a `pause` block between the two images being displayed.
++ Si tu exécutes ce code pour le tester, tu remarqueras que le motif change rapidement. Pour que le changement soit plus lent, tu devras ajouter un bloc `pause` entre les 2 images affichées.
 
-![screenshot](images/badge-pause.png)
+![capture d’écran](images/badge-pause.png)
 
-To choose how many milliseconds to wait, click the down-arrow and enter a number. 1000 milliseconds is 1 second, so 250 milliseconds is a quarter of a second.
+Pour choisir le nombre de millisecondes à attendre, clique sur la flèche vers le bas et entre un nombre. 1000 millisecondes équivaut à 1 seconde, donc 250 millisecondes équivaut à un quart de seconde.
 
-+ You'll also need to animate your sad face. The easiest way to do this is to duplicate the blocks you've just created. Right-click on a block to duplicate it. Note that the PXT editor just duplicates one block at a time (not multiple blocks like Scratch.)
++ Tu devras aussi animer ton visage triste. La façon la plus simple d'y arriver est de dupliquer les blocs que tu viens juste de créer. Fais un clic droit sur un bloc pour le dupliquer. Tu remarqueras que l'éditeur PXT duplique juste un bloc à la fois (pas plusieurs blocs comme dans Scratch.)
 
-+ You can then drag these blocks into your `on button B pressed` block. This is how your code should look:
++ Tu peux ensuite faire glisser ces blocs dans ton bloc `lorsque le bouton B est pressé`. Voici à quoi ton code devrait ressembler :
 
-![screenshot](images/badge-on-b-pressed.png)
+![capture d'écran](images/badge-on-b-pressed.png)
 
-+ Test your code, and you should see your animated happy and sad faces when you press button A and B.
++ Teste ton code, et tu devrais voir un visage souriant ou triste animé quand tu appuies sur le bouton A et B.
 
-![screenshot](images/badge-final.gif)
+![capture d'écran](images/badge-final.gif)
