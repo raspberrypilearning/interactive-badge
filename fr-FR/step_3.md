@@ -1,21 +1,21 @@
-## Displaying a happy face
+## Afficher un visage heureux
 
-Let's show a happy face on your micro:bit when the 'A' button is pressed.
+Affichons un visage heureux sur ton micro:bit lorsque le bouton « A » est pressé.
 
-+ So far, you've only run code when the micro:bit is powered on. You can also run code when a button is pressed.
++ Jusqu'à présent, tu n'as exécuté le code que lorsque le micro: bit est allumé. Tu peux aussi exécuter du code lorsqu'un bouton est pressé.
 
-Drag an 'on button pressed' block from input and make sure 'A' is selected:
+Fais glisser un bloc « lorsque le bouton est pressé » depuis Entrées et assures-toi que « A » est sélectionné :
 
-![screenshot](images/badge-button-a.png)
+![capture d’écran](images/badge-button-a.png)
 
-Any code added inside this block will run when the 'A' button on your micro:bit is pressed.
+Tout le code ajouté à l'intérieur de ce bloc ne s'exécutera que lorsque le bouton « A » de ton micro:bit sera pressé.
 
-+ Drag another `show leds` block inside your new event, and draw a happy face pattern.
++ Fais glisser un autre bloc `montrer LEDs` à l'intérieur de ton nouvel événement et dessine un motif de visage heureux.
 
-![screenshot](images/badge-happy.png)
+![capture d'écran](images/badge-happy.png)
 
-+ Test out your new code in the emulator. Press the 'A' button and you should see a happy face on your micro:bit:
++ Teste ton nouveau code dans l'émulateur. Appuie sur le bouton « A » et tu devrais voir un visage heureux sur ton micro:bit :
 
-![screenshot](images/badge-happy-emulator.png)
+![capture d'écran](images/badge-happy-emulator.png)
 
-You can also test out your new code on your micro:bit.
+Tu peux également tester ton nouveau code sur ton micro:bit.
