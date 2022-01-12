@@ -17,9 +17,11 @@ software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
-  - title: Introduction
-  - title: Afficher une image
-  - title: Afficher un visage heureux
-  - title: 'Défi : Afficher un visage triste'
-  - title: Créer une animation simple
-  - title: 'Défi : Créer ton propre badge interactif !'
+- title: Introduction
+  completion: engaged
+- title: Afficher une image
+- title: Afficher un visage heureux
+- title: 'Défi : Afficher un visage triste'
+- title: Créer une animation simple
+  completion: internal
+- title: 'Défi : Créer ton propre badge interactif !'
