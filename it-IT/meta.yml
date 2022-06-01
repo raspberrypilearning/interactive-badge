@@ -17,9 +17,12 @@ software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
-  - title: Introduzione
-  - title: Mostra un’immagine
-  - title: Mostrare una faccia felice
-  - title: 'Sfida: mostrare una faccia triste'
-  - title: Creare una semplice animazione
-  - title: 'Sfida: crea il tuo badge interattivo personale!'
+- title: Introduzione
+- title: Mostra un’immagine
+- title: Mostrare una faccia felice
+  completion:
+  - engaged
+  - internal
+- title: 'Sfida: mostrare una faccia triste'
+- title: Creare una semplice animazione
+- title: 'Sfida: crea il tuo badge interattivo personale!'

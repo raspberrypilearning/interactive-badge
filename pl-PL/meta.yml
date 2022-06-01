@@ -17,9 +17,12 @@ software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
-  - title: Wprowadzenie
-  - title: Wyświetlanie obrazka
-  - title: Wyświetlanie wesołej twarzy
-  - title: 'Wyzwanie: Wyświetlanie smutnej twarzy'
-  - title: Tworzenie prostej animacji
-  - title: 'Wyzwanie: Stwórz swoją własną interaktywną plakietkę!'
+- title: Wprowadzenie
+- title: Wyświetlanie obrazka
+- title: Wyświetlanie wesołej twarzy
+  completion:
+  - engaged
+  - internal
+- title: 'Wyzwanie: Wyświetlanie smutnej twarzy'
+- title: Tworzenie prostej animacji
+- title: 'Wyzwanie: Stwórz swoją własną interaktywną plakietkę!'

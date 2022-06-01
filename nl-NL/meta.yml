@@ -17,9 +17,12 @@ software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
-  - title: Inleiding
-  - title: Een afbeelding weergeven
-  - title: Een blij gezicht tonen
-  - title: 'Uitdaging: een droevig gezicht tonen'
-  - title: Een eenvoudige animatie maken
-  - title: 'Uitdaging: maak je eigen interactieve badge!'
+- title: Inleiding
+- title: Een afbeelding weergeven
+- title: Een blij gezicht tonen
+  completion:
+  - engaged
+  - internal
+- title: 'Uitdaging: een droevig gezicht tonen'
+- title: Een eenvoudige animatie maken
+- title: 'Uitdaging: maak je eigen interactieve badge!'

@@ -17,9 +17,12 @@ software: ''
 version: 3.0.1
 last_tested: 2019-03-06
 steps:
-  - title: Introducción
-  - title: Mostrando una imagen
-  - title: Mostrando una cara feliz
-  - title: 'Desafío: mostrando una cara triste'
-  - title: Creando una animación simple
-  - title: 'Desafío: ¡crea tu propia insignia interactiva!'
+- title: Introducción
+- title: Mostrando una imagen
+- title: Mostrando una cara feliz
+  completion:
+  - engaged
+  - internal
+- title: 'Desafío: mostrando una cara triste'
+- title: Creando una animación simple
+- title: 'Desafío: ¡crea tu propia insignia interactiva!'

@@ -17,9 +17,12 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Cyflwyniad
-  - title: Dangos delwedd
-  - title: Dangos wyneb hapus
-  - title: 'Her: Dangos wyneb trist'
-  - title: Creu animeiddiad syml
-  - title: 'Her: Creu eich bathodyn rhyngweithiol eich hun!'
+- title: Cyflwyniad
+- title: Dangos delwedd
+- title: Dangos wyneb hapus
+  completion:
+  - engaged
+  - internal
+- title: 'Her: Dangos wyneb trist'
+- title: Creu animeiddiad syml
+- title: 'Her: Creu eich bathodyn rhyngweithiol eich hun!'
