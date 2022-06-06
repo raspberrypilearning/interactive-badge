@@ -18,10 +18,11 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
 - title: المقدمة
-  completion: engaged
 - title: عرض صورة
 - title: عرض وجه سعيد
+  completion:
+  - engaged
+  - internal
 - title: 'التحدي: عرض وجه حزين'
 - title: إنشاء رسوم متحركة بسيطة
-  completion: internal
 - title: 'التحدي: أنشئ علامة تفاعلية خاصة بك!'

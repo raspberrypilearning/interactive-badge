@@ -18,10 +18,11 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
 - title: परिचय
-  completion: engaged
 - title: एक छवि प्रदर्शित करना
 - title: एक खुश चेहरा प्रदर्शित करना
+  completion:
+  - engaged
+  - internal
 - title: 'चुनौती: एक उदास चेहरा प्रदर्शित करना'
 - title: एक साधारण एनिमेशन बनाना
-  completion: internal
 - title: 'चुनौती: अपना खुद का इंटरेक्टिव बैज बनाएँ!'

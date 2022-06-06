@@ -18,10 +18,11 @@ version: 3
 last_tested: 2019-03-06
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Εμφάνιση μιας εικόνας
 - title: Εμφάνιση ενός χαμογελαστού προσώπου
+  completion:
+  - engaged
+  - internal
 - title: 'Πρόκληση: Εμφάνιση ενός λυπημένου προσώπου'
 - title: Δημιουργία απλής κινούμενης εικόνας
-  completion: internal
 - title: 'Πρόκληση: Δημιούργησε το δικό σου διαδραστικό έμβλημα/σήμα!'

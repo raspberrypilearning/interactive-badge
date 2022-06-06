@@ -18,10 +18,11 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
 - title: ಪರಿಚಯ
-  completion: engaged
 - title: ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸುವುದು
 - title: ಸಂತೋಷದ ಮುಖವನ್ನು ಪ್ರದರ್ಶಿಸುವುದು
+  completion:
+  - engaged
+  - internal
 - title: 'ಸವಾಲು: ದುಃಖದ ಮುಖವನ್ನು ಪ್ರದರ್ಶಿಸುವುದು'
 - title: ಸರಳ ಅನಿಮೇಷನ್ ರಚಿಸುವುದು
-  completion: internal
 - title: 'ಸವಾಲು: ನಿಮ್ಮ ಸ್ವಂತ ವಿನಿಮಯ ಬ್ಯಾಡ್ಜ್ ರಚಿಸಿ!'

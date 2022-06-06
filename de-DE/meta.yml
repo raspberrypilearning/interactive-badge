@@ -18,10 +18,11 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Ein Bild anzeigen
 - title: Ein glückliches Gesicht zeigen
+  completion:
+  - engaged
+  - internal
 - title: 'Herausforderung: Ein trauriges Gesicht zeigen'
 - title: Eine einfache Animation erstellen
-  completion: internal
 - title: 'Herausforderung: Erstelle dein eigenes interaktives Abzeichen!'
