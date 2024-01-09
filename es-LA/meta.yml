@@ -23,6 +23,9 @@ steps:
     title: Mostrando una imagen
   - 
     title: Mostrando una cara feliz
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Desafío: muestra una cara triste'
   - 
