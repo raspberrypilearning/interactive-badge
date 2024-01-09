@@ -23,6 +23,9 @@ steps:
     title: Displaying an image
   - 
     title: Displaying a happy face
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Challenge: Displaying a sad face'
   - 
