@@ -23,6 +23,9 @@ steps:
     title: Wyświetlanie obrazka
   - 
     title: Wyświetlanie wesołej twarzy
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Wyzwanie: Wyświetlanie smutnej twarzy'
   - 
