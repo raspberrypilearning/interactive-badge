@@ -23,6 +23,9 @@ steps:
     title: Afficher une image
   - 
     title: Afficher un visage heureux
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Défi : Afficher un visage triste'
   - 
