@@ -23,6 +23,9 @@ steps:
     title: عرض صورة
   - 
     title: عرض وجه سعيد
+    completion:
+      - engaged
+      - internal
   - 
     title: 'التحدي: عرض وجه حزين'
   - 
