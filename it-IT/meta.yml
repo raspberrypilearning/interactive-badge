@@ -23,6 +23,9 @@ steps:
     title: Mostra un’immagine
   - 
     title: Mostrare una faccia felice
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Sfida: mostrare una faccia triste'
   - 
