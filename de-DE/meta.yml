@@ -23,6 +23,9 @@ steps:
     title: Ein Bild anzeigen
   - 
     title: Ein glückliches Gesicht zeigen
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Herausforderung: Ein trauriges Gesicht zeigen'
   - 
