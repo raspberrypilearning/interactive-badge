@@ -2,7 +2,7 @@
 
 Pokażmy radosną minę na twoim mikro:bit po naciśnięciu przycisku „A”.
 
-+ Do tej pory kod działał tylko wtedy, gdy włączałeś micro:bit. Możesz także uruchomić kod po naciśnięciu przycisku.
++ Do tej pory kod działał tylko po włączeniu micro:bit. Możesz także uruchomić kod po naciśnięciu przycisku.
 
 Przeciągnij blok „on button pressed” z wejścia i upewnij się, że wybrane jest „A”:
 
