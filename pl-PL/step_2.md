@@ -6,7 +6,7 @@ Zacznijmy od wyświetlenia obrazu na twoim micro:bit, gdy się go włącza.
 
 ![zrzut ekranu](images/badge-name.png)
 
-+ Powinieneś teraz zobaczyć edytor kodu. Aby narysować obraz na micro:bit po włączeniu, przeciągnij blok `show leds` z obszaru kodu (po lewej) do środka bloku `start`.
++ Możesz teraz zobaczyć edytor kodu. Aby narysować obraz na micro:bit po włączeniu, przeciągnij blok `show leds` z obszaru kodu (po lewej) do środka bloku `start`.
 
 ![zrzut ekranu](images/badge-draw.png)
 
@@ -18,19 +18,19 @@ Zacznijmy od wyświetlenia obrazu na twoim micro:bit, gdy się go włącza.
 
 ![zrzut ekranu](images/badge-emulator.png)
 
-+ Możesz również przetestować kod na samym micro:bit! Aby to zrobić, kliknij „Pobierz” w menu po lewej stronie ekranu.
++ Możesz również przetestować kod na samym micro:bit! Aby to zrobić, kliknij „Pobierz” („Download”) w menu po lewej stronie ekranu.
 
 ![zrzut ekranu](images/badge-download.png)
 
 Spowoduje to utworzenie i pobranie pliku `.hex`, który będzie mógł działać na twoim micro:bit.
 
-+ Użyj kabla USB, aby podłączyć micro:bit do komputera. Powinnaś wtedy zobaczyć, że twój micro:bit pojawi się w menedżerze plików twojego komputera jako dysk USB. 
++ Użyj kabla USB, aby podłączyć micro:bit do komputera. Możesz zobaczyć, że twój micro:bit pojawi się w menedżerze plików twojego komputera jako dysk USB. 
 
 ![zrzut ekranu](images/badge-drive.png)
 
 + Jeśli używasz programu do przesyłania z micro:bit, to plik `.hex` zostanie automatycznie skopiowany do micro:bit. Skontaktuj się ze swoim wolontariuszem, jeśli nie jesteś pewien. 
 
-W przeciwnym razie będziesz musiał skopiować plik `.hex` do micro:bit.
+W przeciwnym razie skopiuj plik `.hex` do micro:bit.
 
 Jeśli używasz **Internet Explorera** możesz wybrać `Zapisz jako` z menu, które pojawia się na dole przeglądarki, a następnie wybierz dysk micro:bit:
 
@@ -44,11 +44,11 @@ Jeśli używasz **Google Chrome** to możesz kliknąć strzałkę za pobranym pl
 
 ![zrzut ekranu](images/badge-reset.jpg)
 
-+ Powinnaś teraz zobaczyć swój obraz na micro:bit. Jeśli wolisz, możesz odłączyć kabel USB od micro:bit i podłączyć baterię. Program zostanie zachowany na micro:bit.
++ Możesz teraz zobaczyć swój obraz na micro:bit. Jeśli wolisz, możesz odłączyć kabel USB od micro:bit i podłączyć baterię. Program zostanie zachowany na micro:bit.
 
 ![zrzut ekranu](images/badge-battery.jpg)
 
-Nie potrzebujesz konta, aby zapisać swoje rzeczy! Twój projekt zostanie automatycznie zapisany w przeglądarce, możesz kliknąć w `Projekty`, aby zobaczyć swoje projekty.
+Nie potrzebujesz konta, aby zapisać swoją pracę! Twój projekt zostanie automatycznie zapisany w przeglądarce, możesz kliknąć w `Projekty`, aby zobaczyć swoje projekty.
 
 Możesz także kliknąć przycisk Zapisz, aby pobrać projekt jako plik `.hex` zawierający Twój projekt:
 
