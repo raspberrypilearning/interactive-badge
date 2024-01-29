@@ -4,9 +4,7 @@ Tu vas créer un badge interactif qui montrera ton humeur à tes amis.
 
 **Instructions** : Si tu lis ceci en ligne, appuie sur le bouton **A** du micro:bit ci-dessous pour afficher un visage heureux, et sur le bouton **B** pour afficher un visage triste.
 
-<div class="trinket" style="width:400px;margin: 0 auto;">
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_M6yLfbemfPUv" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-</div>
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_M6yLfbemfPUv" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 ### Informations complémentaires pour les responsables de club
 
